@@ -6673,14 +6673,6 @@ body::-webkit-scrollbar-thumb {
     margin: 0 .5em
 }
 
-.main .terminal {
-    display: flex;
-    flex-direction: column-reverse;
-    flex: 1;
-    overflow: hidden;
-    background: #000
-}
-
 .main .window-container {
     padding: .25em;
     display: flex;
