@@ -19147,17 +19147,16 @@ parcelRequire = function (e, r, t, n) {
             return e.default.createElement(t.default, {
                 title: "Welcome",
                 className: "window--welcome"
-            }, e.default.createElement("p", null, "WAD Commander is a tool running in modern browsers to load and play WAD files of DOOM® and DOOM II®."), e.default.createElement("p", null, 'Both IWAD and PWAD files are supported. Drag and drop your WAD files to this window or open them using the "Open file(s)" button below. You can also open DeHackEd patch files and add them to the game the same way as WAD files.'), e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (", e.default.createElement("a", {
-                href: n,
-                onClick: (0, l.fileFetch)("freedoom1.wad")
-            }, "Phase 1"),
-            " ", "or", " ", e.default.createElement("a", {
-                href: d,
-                onClick: (0, l.fileFetch)("freedoom2.wad")
-            }, "Phase 2"), ") or the shareware version of", " ", e.default.createElement("a", {
-                href: r,
-                onClick: (0, l.fileFetch)("doom1.wad")
-            }, "DOOM®"), "."), e.default.createElement("input", {
+            },
+            e.default.createElement("p", null, "WAD Commander is a tool running in modern browsers to load and play WAD files of DOOM® and DOOM II®."),
+            e.default.createElement("p", null, 'Both IWAD and PWAD files are supported. Drag and drop your WAD files to this window or open them using the "Open file(s)" button below. You can also open DeHackEd patch files and add them to the game the same way as WAD files.'),
+            e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (",
+            e.default.createElement("a", null, "Phase 1"),
+            " ", "or", " ",
+            e.default.createElement("a", null, "Phase 2"),
+            ") or the shareware version of", " ",
+            e.default.createElement("a", null, "DOOM®"), "."),
+            e.default.createElement("input", {
                 id: "file",
                 type: "file",
                 name: "file",
