@@ -19139,9 +19139,8 @@ parcelRequire = function (e, r, t, n) {
                 default: e
             }
         }
-        var r = require("../../public/doom1.wad"),
-            n = require("../../public/freedoom1.wad"),
-            d = require("../../public/freedoom2.wad");
+        var n = require("./Assets/Wads/freedoom1.wad"),
+            d = require("./Assets/Wads/freedoom2.wad");
 
         function i() {
             return e.default.createElement(t.default, {
@@ -19151,11 +19150,9 @@ parcelRequire = function (e, r, t, n) {
             e.default.createElement("p", null, "WAD Commander is a tool running in modern browsers to load and play WAD files of DOOM® and DOOM II®."),
             e.default.createElement("p", null, 'Both IWAD and PWAD files are supported. Drag and drop your WAD files to this window or open them using the "Open file(s)" button below. You can also open DeHackEd patch files and add them to the game the same way as WAD files.'),
             e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (",
-            e.default.createElement("a", null, "Phase 1"),
+            e.default.createElement("a", { href: n, onClick: (0, l.fileFetch)("freedoom1.wad") }, "Phase 1"),
             " ", "or", " ",
-            e.default.createElement("a", null, "Phase 2"),
-            ") or the shareware version of", " ",
-            e.default.createElement("a", null, "DOOM®"), "."),
+            e.default.createElement("a", { href: n, onClick: (0, l.fileFetch)("freedoom2.wad") }, "Phase 2")),
             e.default.createElement("input", {
                 id: "file",
                 type: "file",
@@ -19174,8 +19171,8 @@ parcelRequire = function (e, r, t, n) {
         "../components/Button": "ZKJl",
         "./lib/file": "Lsb7",
         "../../public/doom1.wad": "UsMN",
-        "../../public/freedoom1.wad": "Pd1r",
-        "../../public/freedoom2.wad": "T7bT"
+        "./Assets/Wads/freedoom1.wad": "Pd1r",
+        "./Assets/Wads/freedoom2.wad": "T7bT"
     }],
     "vNBV": [function (require, module, exports) {
         "use strict";

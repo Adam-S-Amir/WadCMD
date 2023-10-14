@@ -1,4 +1,4 @@
-# WAD Commander
+# WAD 
 
 For all those people who went to the original repo looking for a way to Launch Doom WADS in the browser and came back with nothing, This repo is for you!
 
