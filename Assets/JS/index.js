@@ -19119,10 +19119,10 @@ parcelRequire = function (e, r, t, n) {
         module.exports = "/doom1.97be5d85.wad";
     }, {}],
     "Pd1r": [function (require, module, exports) {
-        module.exports = "/freedoom1.44165401.wad";
+        module.exports = "./Assets/Wads/freedoom1.wad";
     }, {}],
     "T7bT": [function (require, module, exports) {
-        module.exports = "/freedoom2.e0fc3dfb.wad";
+        module.exports = "./Assets/Wads/freedoom2.wad";
     }, {}],
     "BVgo": [function (require, module, exports) {
         "use strict";
