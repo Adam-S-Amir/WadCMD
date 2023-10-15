@@ -19152,7 +19152,7 @@ parcelRequire = function (e, r, t, n) {
             e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (",
             e.default.createElement("a", { href: n, onClick: (0, l.fileFetch)("freedoom1.wad") }, "Phase 1"),
             " ", "or", " ",
-            e.default.createElement("a", { href: d, onClick: (0, l.fileFetch)("freedoom2.wad") }, "Phase 2")
+            e.default.createElement("a", { href: d, onClick: (0, l.fileFetch)("freedoom2.wad") }, "Phase 2"),
             ")."),
             e.default.createElement("input", {
                 id: "file",
