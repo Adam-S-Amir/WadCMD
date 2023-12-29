@@ -17024,1231 +17024,1231 @@ parcelRequire = function (e, r, t, n) {
         "../types": "UgGC"
     }],
     "wAKN": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_bunny.b70113da.flac";
+        module.exports = "./Assets/Audio/d_bunny.b70113da.flac";
     }, {}],
     "KuZR": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_bunny.f5defaa5.ogg";
+        module.exports = "./Assets/Audio/d_bunny.f5defaa5.ogg";
     }, {}],
     "sFZm": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m1.1b30b79e.flac";
+        module.exports = "./Assets/Audio/d_e1m1.1b30b79e.flac";
     }, {}],
     "cuFK": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m1.434a4681.ogg";
+        module.exports = "./Assets/Audio/d_e1m1.434a4681.ogg";
     }, {}],
     "YHov": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m2.c95bba59.flac";
+        module.exports = "./Assets/Audio/d_e1m2.c95bba59.flac";
     }, {}],
     "rzJb": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m2.92539087.ogg";
+        module.exports = "./Assets/Audio/d_e1m2.92539087.ogg";
     }, {}],
     "EVD4": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m3.8ae652a9.flac";
+        module.exports = "./Assets/Audio/d_e1m3.8ae652a9.flac";
     }, {}],
     "o2TE": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m3.39a7a371.ogg";
+        module.exports = "./Assets/Audio/d_e1m3.39a7a371.ogg";
     }, {}],
     "msZ3": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m4.b06f4583.flac";
+        module.exports = "./Assets/Audio/d_e1m4.b06f4583.flac";
     }, {}],
     "y2cN": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m4.098bafd6.ogg";
+        module.exports = "./Assets/Audio/d_e1m4.098bafd6.ogg";
     }, {}],
     "ASY9": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m5.1b295507.flac";
+        module.exports = "./Assets/Audio/d_e1m5.1b295507.flac";
     }, {}],
     "ob2o": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m5.e6412a6c.ogg";
+        module.exports = "./Assets/Audio/d_e1m5.e6412a6c.ogg";
     }, {}],
     "JQRr": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m6.d83b7d52.flac";
+        module.exports = "./Assets/Audio/d_e1m6.d83b7d52.flac";
     }, {}],
     "SgT3": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m6.cee253b0.ogg";
+        module.exports = "./Assets/Audio/d_e1m6.cee253b0.ogg";
     }, {}],
     "GKQd": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m7.84f00046.flac";
+        module.exports = "./Assets/Audio/d_e1m7.84f00046.flac";
     }, {}],
     "ZTiz": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m7.f20e59ba.ogg";
+        module.exports = "./Assets/Audio/d_e1m7.f20e59ba.ogg";
     }, {}],
     "pz86": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m8.c6964dc3.flac";
+        module.exports = "./Assets/Audio/d_e1m8.c6964dc3.flac";
     }, {}],
     "ueZK": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m8.64957c8f.ogg";
+        module.exports = "./Assets/Audio/d_e1m8.64957c8f.ogg";
     }, {}],
     "puw5": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m9.bf161f86.ogg";
+        module.exports = "./Assets/Audio/d_e1m9.bf161f86.ogg";
     }, {}],
     "zZCW": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e1m9.a73804ef.flac";
+        module.exports = "./Assets/Audio/d_e1m9.a73804ef.flac";
     }, {}],
     "b9so": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m1.e265586c.flac";
+        module.exports = "./Assets/Audio/d_e2m1.e265586c.flac";
     }, {}],
     "frRg": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m1.49724e42.ogg";
+        module.exports = "./Assets/Audio/d_e2m1.49724e42.ogg";
     }, {}],
     "eUl6": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m2.fb7e3256.flac";
+        module.exports = "./Assets/Audio/d_e2m2.fb7e3256.flac";
     }, {}],
     "Okox": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m2.e11b31c7.ogg";
+        module.exports = "./Assets/Audio/d_e2m2.e11b31c7.ogg";
     }, {}],
     "aOlB": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m3.fd6bb5a5.flac";
+        module.exports = "./Assets/Audio/d_e2m3.fd6bb5a5.flac";
     }, {}],
     "xyCr": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m3.364522cf.ogg";
+        module.exports = "./Assets/Audio/d_e2m3.364522cf.ogg";
     }, {}],
     "U1WR": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m4.1893dd01.flac";
+        module.exports = "./Assets/Audio/d_e2m4.1893dd01.flac";
     }, {}],
     "OXoS": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m4.5e37bc84.ogg";
+        module.exports = "./Assets/Audio/d_e2m4.5e37bc84.ogg";
     }, {}],
     "FZGx": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m5.3eb64303.flac";
+        module.exports = "./Assets/Audio/d_e2m5.3eb64303.flac";
     }, {}],
     "HUf1": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m5.591b2dda.ogg";
+        module.exports = "./Assets/Audio/d_e2m5.591b2dda.ogg";
     }, {}],
     "NcuG": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m6.1966e520.flac";
+        module.exports = "./Assets/Audio/d_e2m6.1966e520.flac";
     }, {}],
     "TOhQ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m6.eb5336d1.ogg";
+        module.exports = "./Assets/Audio/d_e2m6.eb5336d1.ogg";
     }, {}],
     "a3qz": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m7.65192d0a.flac";
+        module.exports = "./Assets/Audio/d_e2m7.65192d0a.flac";
     }, {}],
     "V4Ej": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m7.6ecb6bba.ogg";
+        module.exports = "./Assets/Audio/d_e2m7.6ecb6bba.ogg";
     }, {}],
     "olnp": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m8.b7da9679.flac";
+        module.exports = "./Assets/Audio/d_e2m8.b7da9679.flac";
     }, {}],
     "c0SR": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m8.9bf5dc6d.ogg";
+        module.exports = "./Assets/Audio/d_e2m8.9bf5dc6d.ogg";
     }, {}],
     "t1uw": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m9.25d137aa.flac";
+        module.exports = "./Assets/Audio/d_e2m9.25d137aa.flac";
     }, {}],
     "IBNb": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e2m9.5d422786.ogg";
+        module.exports = "./Assets/Audio/d_e2m9.5d422786.ogg";
     }, {}],
     "AtwI": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m1.004d90bb.flac";
+        module.exports = "./Assets/Audio/d_e3m1.004d90bb.flac";
     }, {}],
     "tDjY": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m1.a9bbcb64.ogg";
+        module.exports = "./Assets/Audio/d_e3m1.a9bbcb64.ogg";
     }, {}],
     "dlq8": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m2.081e4b44.flac";
+        module.exports = "./Assets/Audio/d_e3m2.081e4b44.flac";
     }, {}],
     "j0Lf": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m2.a0dc3e82.ogg";
+        module.exports = "./Assets/Audio/d_e3m2.a0dc3e82.ogg";
     }, {}],
     "SRVP": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m3.0a9b3683.flac";
+        module.exports = "./Assets/Audio/d_e3m3.0a9b3683.flac";
     }, {}],
     "FugK": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m3.e8f2cc5e.ogg";
+        module.exports = "./Assets/Audio/d_e3m3.e8f2cc5e.ogg";
     }, {}],
     "SoT1": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m4.9e50f857.flac";
+        module.exports = "./Assets/Audio/d_e3m4.9e50f857.flac";
     }, {}],
     "Rj9A": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m4.5e1646ea.ogg";
+        module.exports = "./Assets/Audio/d_e3m4.5e1646ea.ogg";
     }, {}],
     "nWBZ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m5.0e1e1fa8.flac";
+        module.exports = "./Assets/Audio/d_e3m5.0e1e1fa8.flac";
     }, {}],
     "botX": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m5.3c1b6d80.ogg";
+        module.exports = "./Assets/Audio/d_e3m5.3c1b6d80.ogg";
     }, {}],
     "T7AA": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m6.5f38365c.flac";
+        module.exports = "./Assets/Audio/d_e3m6.5f38365c.flac";
     }, {}],
     "pzX7": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m6.c6e49814.ogg";
+        module.exports = "./Assets/Audio/d_e3m6.c6e49814.ogg";
     }, {}],
     "LByR": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m7.2923589f.flac";
+        module.exports = "./Assets/Audio/d_e3m7.2923589f.flac";
     }, {}],
     "rkLT": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m7.2c99d34a.ogg";
+        module.exports = "./Assets/Audio/d_e3m7.2c99d34a.ogg";
     }, {}],
     "um9k": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m8.9fe47809.flac";
+        module.exports = "./Assets/Audio/d_e3m8.9fe47809.flac";
     }, {}],
     "V8Vn": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m8.e164db16.ogg";
+        module.exports = "./Assets/Audio/d_e3m8.e164db16.ogg";
     }, {}],
     "vg6o": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m9.6fba548e.flac";
+        module.exports = "./Assets/Audio/d_e3m9.6fba548e.flac";
     }, {}],
     "sP6h": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_e3m9.27b3d00e.ogg";
+        module.exports = "./Assets/Audio/d_e3m9.27b3d00e.ogg";
     }, {}],
     "Ep3a": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_inter.c9e08ecf.flac";
+        module.exports = "./Assets/Audio/d_inter.c9e08ecf.flac";
     }, {}],
     "wYYN": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_inter.0d8d527b.ogg";
+        module.exports = "./Assets/Audio/d_inter.0d8d527b.ogg";
     }, {}],
     "xZzQ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_intro.666122a2.ogg";
+        module.exports = "./Assets/Audio/d_intro.666122a2.ogg";
     }, {}],
     "TTUi": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_intro.38aa1d1b.flac";
+        module.exports = "./Assets/Audio/d_intro.38aa1d1b.flac";
     }, {}],
     "S4IM": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_victor.212bf8a5.flac";
+        module.exports = "./Assets/Audio/d_victor.212bf8a5.flac";
     }, {}],
     "hSAx": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_victor.cc0e4f17.ogg";
+        module.exports = "./Assets/Audio/d_victor.cc0e4f17.ogg";
     }, {}],
     "vXPy": [function (require, module, exports) {
         module.exports = {
             d_bunny: {
-                flac: require("./Assets/audio/d_bunny.flac"),
-                ogg: require("./Assets/audio/d_bunny.ogg")
+                flac: require("./Assets/Audio/d_bunny.flac"),
+                ogg: require("./Assets/Audio/d_bunny.ogg")
             },
             d_e1m1: {
-                flac: require("./Assets/audio/d_e1m1.flac"),
-                ogg: require("./Assets/audio/d_e1m1.ogg")
+                flac: require("./Assets/Audio/d_e1m1.flac"),
+                ogg: require("./Assets/Audio/d_e1m1.ogg")
             },
             d_e1m2: {
-                flac: require("./Assets/audio/d_e1m2.flac"),
-                ogg: require("./Assets/audio/d_e1m2.ogg")
+                flac: require("./Assets/Audio/d_e1m2.flac"),
+                ogg: require("./Assets/Audio/d_e1m2.ogg")
             },
             d_e1m3: {
-                flac: require("./Assets/audio/d_e1m3.flac"),
-                ogg: require("./Assets/audio/d_e1m3.ogg")
+                flac: require("./Assets/Audio/d_e1m3.flac"),
+                ogg: require("./Assets/Audio/d_e1m3.ogg")
             },
             d_e1m4: {
-                flac: require("./Assets/audio/d_e1m4.flac"),
-                ogg: require("./Assets/audio/d_e1m4.ogg")
+                flac: require("./Assets/Audio/d_e1m4.flac"),
+                ogg: require("./Assets/Audio/d_e1m4.ogg")
             },
             d_e1m5: {
-                flac: require("./Assets/audio/d_e1m5.flac"),
-                ogg: require("./Assets/audio/d_e1m5.ogg")
+                flac: require("./Assets/Audio/d_e1m5.flac"),
+                ogg: require("./Assets/Audio/d_e1m5.ogg")
             },
             d_e1m6: {
-                flac: require("./Assets/audio/d_e1m6.flac"),
-                ogg: require("./Assets/audio/d_e1m6.ogg")
+                flac: require("./Assets/Audio/d_e1m6.flac"),
+                ogg: require("./Assets/Audio/d_e1m6.ogg")
             },
             d_e1m7: {
-                flac: require("./Assets/audio/d_e1m7.flac"),
-                ogg: require("./Assets/audio/d_e1m7.ogg")
+                flac: require("./Assets/Audio/d_e1m7.flac"),
+                ogg: require("./Assets/Audio/d_e1m7.ogg")
             },
             d_e1m8: {
-                flac: require("./Assets/audio/d_e1m8.flac"),
-                ogg: require("./Assets/audio/d_e1m8.ogg")
+                flac: require("./Assets/Audio/d_e1m8.flac"),
+                ogg: require("./Assets/Audio/d_e1m8.ogg")
             },
             d_e1m9: {
-                ogg: require("./Assets/audio/d_e1m9.ogg"),
-                flac: require("./Assets/audio/d_e1m9.flac")
+                ogg: require("./Assets/Audio/d_e1m9.ogg"),
+                flac: require("./Assets/Audio/d_e1m9.flac")
             },
             d_e2m1: {
-                flac: require("./Assets/audio/d_e2m1.flac"),
-                ogg: require("./Assets/audio/d_e2m1.ogg")
+                flac: require("./Assets/Audio/d_e2m1.flac"),
+                ogg: require("./Assets/Audio/d_e2m1.ogg")
             },
             d_e2m2: {
-                flac: require("./Assets/audio/d_e2m2.flac"),
-                ogg: require("./Assets/audio/d_e2m2.ogg")
+                flac: require("./Assets/Audio/d_e2m2.flac"),
+                ogg: require("./Assets/Audio/d_e2m2.ogg")
             },
             d_e2m3: {
-                flac: require("./Assets/audio/d_e2m3.flac"),
-                ogg: require("./Assets/audio/d_e2m3.ogg")
+                flac: require("./Assets/Audio/d_e2m3.flac"),
+                ogg: require("./Assets/Audio/d_e2m3.ogg")
             },
             d_e2m4: {
-                flac: require("./Assets/audio/d_e2m4.flac"),
-                ogg: require("./Assets/audio/d_e2m4.ogg")
+                flac: require("./Assets/Audio/d_e2m4.flac"),
+                ogg: require("./Assets/Audio/d_e2m4.ogg")
             },
             d_e2m5: {
-                flac: require("./Assets/audio/d_e2m5.flac"),
-                ogg: require("./Assets/audio/d_e2m5.ogg")
+                flac: require("./Assets/Audio/d_e2m5.flac"),
+                ogg: require("./Assets/Audio/d_e2m5.ogg")
             },
             d_e2m6: {
-                flac: require("./Assets/audio/d_e2m6.flac"),
-                ogg: require("./Assets/audio/d_e2m6.ogg")
+                flac: require("./Assets/Audio/d_e2m6.flac"),
+                ogg: require("./Assets/Audio/d_e2m6.ogg")
             },
             d_e2m7: {
-                flac: require("./Assets/audio/d_e2m7.flac"),
-                ogg: require("./Assets/audio/d_e2m7.ogg")
+                flac: require("./Assets/Audio/d_e2m7.flac"),
+                ogg: require("./Assets/Audio/d_e2m7.ogg")
             },
             d_e2m8: {
-                flac: require("./Assets/audio/d_e2m8.flac"),
-                ogg: require("./Assets/audio/d_e2m8.ogg")
+                flac: require("./Assets/Audio/d_e2m8.flac"),
+                ogg: require("./Assets/Audio/d_e2m8.ogg")
             },
             d_e2m9: {
-                flac: require("./Assets/audio/d_e2m9.flac"),
-                ogg: require("./Assets/audio/d_e2m9.ogg")
+                flac: require("./Assets/Audio/d_e2m9.flac"),
+                ogg: require("./Assets/Audio/d_e2m9.ogg")
             },
             d_e3m1: {
-                flac: require("./Assets/audio/d_e3m1.flac"),
-                ogg: require("./Assets/audio/d_e3m1.ogg")
+                flac: require("./Assets/Audio/d_e3m1.flac"),
+                ogg: require("./Assets/Audio/d_e3m1.ogg")
             },
             d_e3m2: {
-                flac: require("./Assets/audio/d_e3m2.flac"),
-                ogg: require("./Assets/audio/d_e3m2.ogg")
+                flac: require("./Assets/Audio/d_e3m2.flac"),
+                ogg: require("./Assets/Audio/d_e3m2.ogg")
             },
             d_e3m3: {
-                flac: require("./Assets/audio/d_e3m3.flac"),
-                ogg: require("./Assets/audio/d_e3m3.ogg")
+                flac: require("./Assets/Audio/d_e3m3.flac"),
+                ogg: require("./Assets/Audio/d_e3m3.ogg")
             },
             d_e3m4: {
-                flac: require("./Assets/audio/d_e3m4.flac"),
-                ogg: require("./Assets/audio/d_e3m4.ogg")
+                flac: require("./Assets/Audio/d_e3m4.flac"),
+                ogg: require("./Assets/Audio/d_e3m4.ogg")
             },
             d_e3m5: {
-                flac: require("./Assets/audio/d_e3m5.flac"),
-                ogg: require("./Assets/audio/d_e3m5.ogg")
+                flac: require("./Assets/Audio/d_e3m5.flac"),
+                ogg: require("./Assets/Audio/d_e3m5.ogg")
             },
             d_e3m6: {
-                flac: require("./Assets/audio/d_e3m6.flac"),
-                ogg: require("./Assets/audio/d_e3m6.ogg")
+                flac: require("./Assets/Audio/d_e3m6.flac"),
+                ogg: require("./Assets/Audio/d_e3m6.ogg")
             },
             d_e3m7: {
-                flac: require("./Assets/audio/d_e3m7.flac"),
-                ogg: require("./Assets/audio/d_e3m7.ogg")
+                flac: require("./Assets/Audio/d_e3m7.flac"),
+                ogg: require("./Assets/Audio/d_e3m7.ogg")
             },
             d_e3m8: {
-                flac: require("./Assets/audio/d_e3m8.flac"),
-                ogg: require("./Assets/audio/d_e3m8.ogg")
+                flac: require("./Assets/Audio/d_e3m8.flac"),
+                ogg: require("./Assets/Audio/d_e3m8.ogg")
             },
             d_e3m9: {
-                flac: require("./Assets/audio/d_e3m9.flac"),
-                ogg: require("./Assets/audio/d_e3m9.ogg")
+                flac: require("./Assets/Audio/d_e3m9.flac"),
+                ogg: require("./Assets/Audio/d_e3m9.ogg")
             },
             d_inter: {
-                flac: require("./Assets/audio/d_inter.flac"),
-                ogg: require("./Assets/audio/d_inter.ogg")
+                flac: require("./Assets/Audio/d_inter.flac"),
+                ogg: require("./Assets/Audio/d_inter.ogg")
             },
             d_intro: {
-                ogg: require("./Assets/audio/d_intro.ogg"),
-                flac: require("./Assets/audio/d_intro.flac")
+                ogg: require("./Assets/Audio/d_intro.ogg"),
+                flac: require("./Assets/Audio/d_intro.flac")
             },
             d_victor: {
-                flac: require("./Assets/audio/d_victor.flac"),
-                ogg: require("./Assets/audio/d_victor.ogg")
+                flac: require("./Assets/Audio/d_victor.flac"),
+                ogg: require("./Assets/Audio/d_victor.ogg")
             }
         };
     }, {
-        "./Assets/audio/d_bunny.flac": "wAKN",
-        "./Assets/audio/d_bunny.ogg": "KuZR",
-        "./Assets/audio/d_e1m1.flac": "sFZm",
-        "./Assets/audio/d_e1m1.ogg": "cuFK",
-        "./Assets/audio/d_e1m2.flac": "YHov",
-        "./Assets/audio/d_e1m2.ogg": "rzJb",
-        "./Assets/audio/d_e1m3.flac": "EVD4",
-        "./Assets/audio/d_e1m3.ogg": "o2TE",
-        "./Assets/audio/d_e1m4.flac": "msZ3",
-        "./Assets/audio/d_e1m4.ogg": "y2cN",
-        "./Assets/audio/d_e1m5.flac": "ASY9",
-        "./Assets/audio/d_e1m5.ogg": "ob2o",
-        "./Assets/audio/d_e1m6.flac": "JQRr",
-        "./Assets/audio/d_e1m6.ogg": "SgT3",
-        "./Assets/audio/d_e1m7.flac": "GKQd",
-        "./Assets/audio/d_e1m7.ogg": "ZTiz",
-        "./Assets/audio/d_e1m8.flac": "pz86",
-        "./Assets/audio/d_e1m8.ogg": "ueZK",
-        "./Assets/audio/d_e1m9.ogg": "puw5",
-        "./Assets/audio/d_e1m9.flac": "zZCW",
-        "./Assets/audio/d_e2m1.flac": "b9so",
-        "./Assets/audio/d_e2m1.ogg": "frRg",
-        "./Assets/audio/d_e2m2.flac": "eUl6",
-        "./Assets/audio/d_e2m2.ogg": "Okox",
-        "./Assets/audio/d_e2m3.flac": "aOlB",
-        "./Assets/audio/d_e2m3.ogg": "xyCr",
-        "./Assets/audio/d_e2m4.flac": "U1WR",
-        "./Assets/audio/d_e2m4.ogg": "OXoS",
-        "./Assets/audio/d_e2m5.flac": "FZGx",
-        "./Assets/audio/d_e2m5.ogg": "HUf1",
-        "./Assets/audio/d_e2m6.flac": "NcuG",
-        "./Assets/audio/d_e2m6.ogg": "TOhQ",
-        "./Assets/audio/d_e2m7.flac": "a3qz",
-        "./Assets/audio/d_e2m7.ogg": "V4Ej",
-        "./Assets/audio/d_e2m8.flac": "olnp",
-        "./Assets/audio/d_e2m8.ogg": "c0SR",
-        "./Assets/audio/d_e2m9.flac": "t1uw",
-        "./Assets/audio/d_e2m9.ogg": "IBNb",
-        "./Assets/audio/d_e3m1.flac": "AtwI",
-        "./Assets/audio/d_e3m1.ogg": "tDjY",
-        "./Assets/audio/d_e3m2.flac": "dlq8",
-        "./Assets/audio/d_e3m2.ogg": "j0Lf",
-        "./Assets/audio/d_e3m3.flac": "SRVP",
-        "./Assets/audio/d_e3m3.ogg": "FugK",
-        "./Assets/audio/d_e3m4.flac": "SoT1",
-        "./Assets/audio/d_e3m4.ogg": "Rj9A",
-        "./Assets/audio/d_e3m5.flac": "nWBZ",
-        "./Assets/audio/d_e3m5.ogg": "botX",
-        "./Assets/audio/d_e3m6.flac": "T7AA",
-        "./Assets/audio/d_e3m6.ogg": "pzX7",
-        "./Assets/audio/d_e3m7.flac": "LByR",
-        "./Assets/audio/d_e3m7.ogg": "rkLT",
-        "./Assets/audio/d_e3m8.flac": "um9k",
-        "./Assets/audio/d_e3m8.ogg": "V8Vn",
-        "./Assets/audio/d_e3m9.flac": "vg6o",
-        "./Assets/audio/d_e3m9.ogg": "sP6h",
-        "./Assets/audio/d_inter.flac": "Ep3a",
-        "./Assets/audio/d_inter.ogg": "wYYN",
-        "./Assets/audio/d_intro.ogg": "xZzQ",
-        "./Assets/audio/d_intro.flac": "TTUi",
-        "./Assets/audio/d_victor.flac": "S4IM",
-        "./Assets/audio/d_victor.ogg": "hSAx"
+        "./Assets/Audio/d_bunny.flac": "wAKN",
+        "./Assets/Audio/d_bunny.ogg": "KuZR",
+        "./Assets/Audio/d_e1m1.flac": "sFZm",
+        "./Assets/Audio/d_e1m1.ogg": "cuFK",
+        "./Assets/Audio/d_e1m2.flac": "YHov",
+        "./Assets/Audio/d_e1m2.ogg": "rzJb",
+        "./Assets/Audio/d_e1m3.flac": "EVD4",
+        "./Assets/Audio/d_e1m3.ogg": "o2TE",
+        "./Assets/Audio/d_e1m4.flac": "msZ3",
+        "./Assets/Audio/d_e1m4.ogg": "y2cN",
+        "./Assets/Audio/d_e1m5.flac": "ASY9",
+        "./Assets/Audio/d_e1m5.ogg": "ob2o",
+        "./Assets/Audio/d_e1m6.flac": "JQRr",
+        "./Assets/Audio/d_e1m6.ogg": "SgT3",
+        "./Assets/Audio/d_e1m7.flac": "GKQd",
+        "./Assets/Audio/d_e1m7.ogg": "ZTiz",
+        "./Assets/Audio/d_e1m8.flac": "pz86",
+        "./Assets/Audio/d_e1m8.ogg": "ueZK",
+        "./Assets/Audio/d_e1m9.ogg": "puw5",
+        "./Assets/Audio/d_e1m9.flac": "zZCW",
+        "./Assets/Audio/d_e2m1.flac": "b9so",
+        "./Assets/Audio/d_e2m1.ogg": "frRg",
+        "./Assets/Audio/d_e2m2.flac": "eUl6",
+        "./Assets/Audio/d_e2m2.ogg": "Okox",
+        "./Assets/Audio/d_e2m3.flac": "aOlB",
+        "./Assets/Audio/d_e2m3.ogg": "xyCr",
+        "./Assets/Audio/d_e2m4.flac": "U1WR",
+        "./Assets/Audio/d_e2m4.ogg": "OXoS",
+        "./Assets/Audio/d_e2m5.flac": "FZGx",
+        "./Assets/Audio/d_e2m5.ogg": "HUf1",
+        "./Assets/Audio/d_e2m6.flac": "NcuG",
+        "./Assets/Audio/d_e2m6.ogg": "TOhQ",
+        "./Assets/Audio/d_e2m7.flac": "a3qz",
+        "./Assets/Audio/d_e2m7.ogg": "V4Ej",
+        "./Assets/Audio/d_e2m8.flac": "olnp",
+        "./Assets/Audio/d_e2m8.ogg": "c0SR",
+        "./Assets/Audio/d_e2m9.flac": "t1uw",
+        "./Assets/Audio/d_e2m9.ogg": "IBNb",
+        "./Assets/Audio/d_e3m1.flac": "AtwI",
+        "./Assets/Audio/d_e3m1.ogg": "tDjY",
+        "./Assets/Audio/d_e3m2.flac": "dlq8",
+        "./Assets/Audio/d_e3m2.ogg": "j0Lf",
+        "./Assets/Audio/d_e3m3.flac": "SRVP",
+        "./Assets/Audio/d_e3m3.ogg": "FugK",
+        "./Assets/Audio/d_e3m4.flac": "SoT1",
+        "./Assets/Audio/d_e3m4.ogg": "Rj9A",
+        "./Assets/Audio/d_e3m5.flac": "nWBZ",
+        "./Assets/Audio/d_e3m5.ogg": "botX",
+        "./Assets/Audio/d_e3m6.flac": "T7AA",
+        "./Assets/Audio/d_e3m6.ogg": "pzX7",
+        "./Assets/Audio/d_e3m7.flac": "LByR",
+        "./Assets/Audio/d_e3m7.ogg": "rkLT",
+        "./Assets/Audio/d_e3m8.flac": "um9k",
+        "./Assets/Audio/d_e3m8.ogg": "V8Vn",
+        "./Assets/Audio/d_e3m9.flac": "vg6o",
+        "./Assets/Audio/d_e3m9.ogg": "sP6h",
+        "./Assets/Audio/d_inter.flac": "Ep3a",
+        "./Assets/Audio/d_inter.ogg": "wYYN",
+        "./Assets/Audio/d_intro.ogg": "xZzQ",
+        "./Assets/Audio/d_intro.flac": "TTUi",
+        "./Assets/Audio/d_victor.flac": "S4IM",
+        "./Assets/Audio/d_victor.ogg": "hSAx"
     }],
     "NS0i": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_adrian.16ac177c.flac";
+        module.exports = "./Assets/Audio/d_adrian.16ac177c.flac";
     }, {}],
     "i5i8": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_adrian.2194915c.ogg";
+        module.exports = "./Assets/Audio/d_adrian.2194915c.ogg";
     }, {}],
     "QJmY": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ampie.38061bdd.flac";
+        module.exports = "./Assets/Audio/d_ampie.38061bdd.flac";
     }, {}],
     "rVqg": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ampie.21a61bac.ogg";
+        module.exports = "./Assets/Audio/d_ampie.21a61bac.ogg";
     }, {}],
     "PGoy": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_betwee.b1470a43.flac";
+        module.exports = "./Assets/Audio/d_betwee.b1470a43.flac";
     }, {}],
     "n9O2": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_betwee.137dbc8c.ogg";
+        module.exports = "./Assets/Audio/d_betwee.137dbc8c.ogg";
     }, {}],
     "DsoC": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_count2.e62a3eeb.flac";
+        module.exports = "./Assets/Audio/d_count2.e62a3eeb.flac";
     }, {}],
     "yRZb": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_count2.04afb594.ogg";
+        module.exports = "./Assets/Audio/d_count2.04afb594.ogg";
     }, {}],
     "JSJV": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_countd.9a7b50d6.flac";
+        module.exports = "./Assets/Audio/d_countd.9a7b50d6.flac";
     }, {}],
     "X7ol": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_countd.3c55acd7.ogg";
+        module.exports = "./Assets/Audio/d_countd.3c55acd7.ogg";
     }, {}],
     "DzID": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl2.dcf7f42a.flac";
+        module.exports = "./Assets/Audio/d_ddtbl2.dcf7f42a.flac";
     }, {}],
     "Kba0": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl2.200c083b.ogg";
+        module.exports = "./Assets/Audio/d_ddtbl2.200c083b.ogg";
     }, {}],
     "yMF5": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl3.6168cb39.flac";
+        module.exports = "./Assets/Audio/d_ddtbl3.6168cb39.flac";
     }, {}],
     "Su0Y": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl3.97276340.ogg";
+        module.exports = "./Assets/Audio/d_ddtbl3.97276340.ogg";
     }, {}],
     "tOmu": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtblu.4fbae9e9.flac";
+        module.exports = "./Assets/Audio/d_ddtblu.4fbae9e9.flac";
     }, {}],
     "VCIR": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtblu.c17a0b7d.ogg";
+        module.exports = "./Assets/Audio/d_ddtblu.c17a0b7d.ogg";
     }, {}],
     "TdfV": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead.b8603831.flac";
+        module.exports = "./Assets/Audio/d_dead.b8603831.flac";
     }, {}],
     "rOr9": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead.bf60c9ac.ogg";
+        module.exports = "./Assets/Audio/d_dead.bf60c9ac.ogg";
     }, {}],
     "VcGa": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead2.1c2d754a.flac";
+        module.exports = "./Assets/Audio/d_dead2.1c2d754a.flac";
     }, {}],
     "ibmm": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead2.be33b74e.ogg";
+        module.exports = "./Assets/Audio/d_dead2.be33b74e.ogg";
     }, {}],
     "TYdo": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2int.97aca34f.flac";
+        module.exports = "./Assets/Audio/d_dm2int.97aca34f.flac";
     }, {}],
     "yf2U": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2int.4e92e406.ogg";
+        module.exports = "./Assets/Audio/d_dm2int.4e92e406.ogg";
     }, {}],
     "QJpc": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2ttl.8f8d0d27.flac";
+        module.exports = "./Assets/Audio/d_dm2ttl.8f8d0d27.flac";
     }, {}],
     "QB1k": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2ttl.a6f94fa2.ogg";
+        module.exports = "./Assets/Audio/d_dm2ttl.a6f94fa2.ogg";
     }, {}],
     "yo0I": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom.46af7daa.flac";
+        module.exports = "./Assets/Audio/d_doom.46af7daa.flac";
     }, {}],
     "y5vI": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom.06ff06ae.ogg";
+        module.exports = "./Assets/Audio/d_doom.06ff06ae.ogg";
     }, {}],
     "qknf": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom2.ab680988.flac";
+        module.exports = "./Assets/Audio/d_doom2.ab680988.flac";
     }, {}],
     "OdfD": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom2.b06fa30d.ogg";
+        module.exports = "./Assets/Audio/d_doom2.b06fa30d.ogg";
     }, {}],
     "qOXv": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_evil.5bdfc1a3.flac";
+        module.exports = "./Assets/Audio/d_evil.5bdfc1a3.flac";
     }, {}],
     "Ru8L": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_evil.718a650a.ogg";
+        module.exports = "./Assets/Audio/d_evil.718a650a.ogg";
     }, {}],
     "QDOS": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_in_cit.7dccbffe.flac";
+        module.exports = "./Assets/Audio/d_in_cit.7dccbffe.flac";
     }, {}],
     "SCvH": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_in_cit.43a97288.ogg";
+        module.exports = "./Assets/Audio/d_in_cit.43a97288.ogg";
     }, {}],
     "CycL": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messag.0f6e1c6d.flac";
+        module.exports = "./Assets/Audio/d_messag.0f6e1c6d.flac";
     }, {}],
     "rqxl": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messag.3a4db3e3.ogg";
+        module.exports = "./Assets/Audio/d_messag.3a4db3e3.ogg";
     }, {}],
     "gSly": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messg2.22bfc590.flac";
+        module.exports = "./Assets/Audio/d_messg2.22bfc590.flac";
     }, {}],
     "RI68": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messg2.726f3716.ogg";
+        module.exports = "./Assets/Audio/d_messg2.726f3716.ogg";
     }, {}],
     "XVYm": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_openin.6185187b.flac";
+        module.exports = "./Assets/Audio/d_openin.6185187b.flac";
     }, {}],
     "FQZG": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_openin.d56390e1.ogg";
+        module.exports = "./Assets/Audio/d_openin.d56390e1.ogg";
     }, {}],
     "faZO": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_read_m.8b252cc9.flac";
+        module.exports = "./Assets/Audio/d_read_m.8b252cc9.flac";
     }, {}],
     "vGGU": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_read_m.7fee3571.ogg";
+        module.exports = "./Assets/Audio/d_read_m.7fee3571.ogg";
     }, {}],
     "WHtb": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romer2.40eb075a.flac";
+        module.exports = "./Assets/Audio/d_romer2.40eb075a.flac";
     }, {}],
     "qwvq": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romer2.e1d51863.ogg";
+        module.exports = "./Assets/Audio/d_romer2.e1d51863.ogg";
     }, {}],
     "Ju30": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romero.6706d3bc.ogg";
+        module.exports = "./Assets/Audio/d_romero.6706d3bc.ogg";
     }, {}],
     "qubu": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romero.2346d068.flac";
+        module.exports = "./Assets/Audio/d_romero.2346d068.flac";
     }, {}],
     "bghk": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runni2.a6f98f37.ogg";
+        module.exports = "./Assets/Audio/d_runni2.a6f98f37.ogg";
     }, {}],
     "N2cn": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runni2.10ac7166.flac";
+        module.exports = "./Assets/Audio/d_runni2.10ac7166.flac";
     }, {}],
     "BFl1": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runnin.dc32ae19.flac";
+        module.exports = "./Assets/Audio/d_runnin.dc32ae19.flac";
     }, {}],
     "TfBX": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runnin.70cfc997.ogg";
+        module.exports = "./Assets/Audio/d_runnin.70cfc997.ogg";
     }, {}],
     "PNXH": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn.a24ff9a0.flac";
+        module.exports = "./Assets/Audio/d_shawn.a24ff9a0.flac";
     }, {}],
     "yOXH": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn.3f31401c.ogg";
+        module.exports = "./Assets/Audio/d_shawn.3f31401c.ogg";
     }, {}],
     "B6Ec": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn2.44872e66.flac";
+        module.exports = "./Assets/Audio/d_shawn2.44872e66.flac";
     }, {}],
     "IeWH": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn2.8efc3728.ogg";
+        module.exports = "./Assets/Audio/d_shawn2.8efc3728.ogg";
     }, {}],
     "dZ4G": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn3.0465e74c.flac";
+        module.exports = "./Assets/Audio/d_shawn3.0465e74c.flac";
     }, {}],
     "oS1L": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn3.56418eff.ogg";
+        module.exports = "./Assets/Audio/d_shawn3.56418eff.ogg";
     }, {}],
     "EOHZ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stalks.ad3ce1b6.flac";
+        module.exports = "./Assets/Audio/d_stalks.ad3ce1b6.flac";
     }, {}],
     "AgRT": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stalks.4fb35195.ogg";
+        module.exports = "./Assets/Audio/d_stalks.4fb35195.ogg";
     }, {}],
     "pZXZ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks2.f0bcbf9e.flac";
+        module.exports = "./Assets/Audio/d_stlks2.f0bcbf9e.flac";
     }, {}],
     "XJWC": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks2.0662725b.ogg";
+        module.exports = "./Assets/Audio/d_stlks2.0662725b.ogg";
     }, {}],
     "tqT5": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks3.0ff972d9.ogg";
+        module.exports = "./Assets/Audio/d_stlks3.0ff972d9.ogg";
     }, {}],
     "Am6d": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks3.1f335ffd.flac";
+        module.exports = "./Assets/Audio/d_stlks3.1f335ffd.flac";
     }, {}],
     "gSfK": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_tense.cc78fb63.flac";
+        module.exports = "./Assets/Audio/d_tense.cc78fb63.flac";
     }, {}],
     "UXlW": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_tense.c17a7cd3.ogg";
+        module.exports = "./Assets/Audio/d_tense.c17a7cd3.ogg";
     }, {}],
     "bOEs": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_the_da.a215f97d.flac";
+        module.exports = "./Assets/Audio/d_the_da.a215f97d.flac";
     }, {}],
     "Y37t": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_the_da.18113ec5.ogg";
+        module.exports = "./Assets/Audio/d_the_da.18113ec5.ogg";
     }, {}],
     "tnjO": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda2.e2cfa2e6.flac";
+        module.exports = "./Assets/Audio/d_theda2.e2cfa2e6.flac";
     }, {}],
     "gcvQ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda2.789794de.ogg";
+        module.exports = "./Assets/Audio/d_theda2.789794de.ogg";
     }, {}],
     "xqMZ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda3.e0fa5262.flac";
+        module.exports = "./Assets/Audio/d_theda3.e0fa5262.flac";
     }, {}],
     "OHLv": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda3.22611b96.ogg";
+        module.exports = "./Assets/Audio/d_theda3.22611b96.ogg";
     }, {}],
     "aums": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ultima.22dfd216.flac";
+        module.exports = "./Assets/Audio/d_ultima.22dfd216.flac";
     }, {}],
     "iJPP": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ultima.9793a777.ogg";
+        module.exports = "./Assets/Audio/d_ultima.9793a777.ogg";
     }, {}],
     "BmM2": [function (require, module, exports) {
         module.exports = {
             d_adrian: {
-                flac: require("./Assets/audio/d_adrian.flac"),
-                ogg: require("./Assets/audio/d_adrian.ogg")
+                flac: require("./Assets/Audio/d_adrian.flac"),
+                ogg: require("./Assets/Audio/d_adrian.ogg")
             },
             d_ampie: {
-                flac: require("./Assets/audio/d_ampie.flac"),
-                ogg: require("./Assets/audio/d_ampie.ogg")
+                flac: require("./Assets/Audio/d_ampie.flac"),
+                ogg: require("./Assets/Audio/d_ampie.ogg")
             },
             d_betwee: {
-                flac: require("./Assets/audio/d_betwee.flac"),
-                ogg: require("./Assets/audio/d_betwee.ogg")
+                flac: require("./Assets/Audio/d_betwee.flac"),
+                ogg: require("./Assets/Audio/d_betwee.ogg")
             },
             d_count2: {
-                flac: require("./Assets/audio/d_count2.flac"),
-                ogg: require("./Assets/audio/d_count2.ogg")
+                flac: require("./Assets/Audio/d_count2.flac"),
+                ogg: require("./Assets/Audio/d_count2.ogg")
             },
             d_countd: {
-                flac: require("./Assets/audio/d_countd.flac"),
-                ogg: require("./Assets/audio/d_countd.ogg")
+                flac: require("./Assets/Audio/d_countd.flac"),
+                ogg: require("./Assets/Audio/d_countd.ogg")
             },
             d_ddtbl2: {
-                flac: require("./Assets/audio/d_ddtbl2.flac"),
-                ogg: require("./Assets/audio/d_ddtbl2.ogg")
+                flac: require("./Assets/Audio/d_ddtbl2.flac"),
+                ogg: require("./Assets/Audio/d_ddtbl2.ogg")
             },
             d_ddtbl3: {
-                flac: require("./Assets/audio/d_ddtbl3.flac"),
-                ogg: require("./Assets/audio/d_ddtbl3.ogg")
+                flac: require("./Assets/Audio/d_ddtbl3.flac"),
+                ogg: require("./Assets/Audio/d_ddtbl3.ogg")
             },
             d_ddtblu: {
-                flac: require("./Assets/audio/d_ddtblu.flac"),
-                ogg: require("./Assets/audio/d_ddtblu.ogg")
+                flac: require("./Assets/Audio/d_ddtblu.flac"),
+                ogg: require("./Assets/Audio/d_ddtblu.ogg")
             },
             d_dead: {
-                flac: require("./Assets/audio/d_dead.flac"),
-                ogg: require("./Assets/audio/d_dead.ogg")
+                flac: require("./Assets/Audio/d_dead.flac"),
+                ogg: require("./Assets/Audio/d_dead.ogg")
             },
             d_dead2: {
-                flac: require("./Assets/audio/d_dead2.flac"),
-                ogg: require("./Assets/audio/d_dead2.ogg")
+                flac: require("./Assets/Audio/d_dead2.flac"),
+                ogg: require("./Assets/Audio/d_dead2.ogg")
             },
             d_dm2int: {
-                flac: require("./Assets/audio/d_dm2int.flac"),
-                ogg: require("./Assets/audio/d_dm2int.ogg")
+                flac: require("./Assets/Audio/d_dm2int.flac"),
+                ogg: require("./Assets/Audio/d_dm2int.ogg")
             },
             d_dm2ttl: {
-                flac: require("./Assets/audio/d_dm2ttl.flac"),
-                ogg: require("./Assets/audio/d_dm2ttl.ogg")
+                flac: require("./Assets/Audio/d_dm2ttl.flac"),
+                ogg: require("./Assets/Audio/d_dm2ttl.ogg")
             },
             d_doom: {
-                flac: require("./Assets/audio/d_doom.flac"),
-                ogg: require("./Assets/audio/d_doom.ogg")
+                flac: require("./Assets/Audio/d_doom.flac"),
+                ogg: require("./Assets/Audio/d_doom.ogg")
             },
             d_doom2: {
-                flac: require("./Assets/audio/d_doom2.flac"),
-                ogg: require("./Assets/audio/d_doom2.ogg")
+                flac: require("./Assets/Audio/d_doom2.flac"),
+                ogg: require("./Assets/Audio/d_doom2.ogg")
             },
             d_evil: {
-                flac: require("./Assets/audio/d_evil.flac"),
-                ogg: require("./Assets/audio/d_evil.ogg")
+                flac: require("./Assets/Audio/d_evil.flac"),
+                ogg: require("./Assets/Audio/d_evil.ogg")
             },
             d_in_cit: {
-                flac: require("./Assets/audio/d_in_cit.flac"),
-                ogg: require("./Assets/audio/d_in_cit.ogg")
+                flac: require("./Assets/Audio/d_in_cit.flac"),
+                ogg: require("./Assets/Audio/d_in_cit.ogg")
             },
             d_messag: {
-                flac: require("./Assets/audio/d_messag.flac"),
-                ogg: require("./Assets/audio/d_messag.ogg")
+                flac: require("./Assets/Audio/d_messag.flac"),
+                ogg: require("./Assets/Audio/d_messag.ogg")
             },
             d_messg2: {
-                flac: require("./Assets/audio/d_messg2.flac"),
-                ogg: require("./Assets/audio/d_messg2.ogg")
+                flac: require("./Assets/Audio/d_messg2.flac"),
+                ogg: require("./Assets/Audio/d_messg2.ogg")
             },
             d_openin: {
-                flac: require("./Assets/audio/d_openin.flac"),
-                ogg: require("./Assets/audio/d_openin.ogg")
+                flac: require("./Assets/Audio/d_openin.flac"),
+                ogg: require("./Assets/Audio/d_openin.ogg")
             },
             d_read_m: {
-                flac: require("./Assets/audio/d_read_m.flac"),
-                ogg: require("./Assets/audio/d_read_m.ogg")
+                flac: require("./Assets/Audio/d_read_m.flac"),
+                ogg: require("./Assets/Audio/d_read_m.ogg")
             },
             d_romer2: {
-                flac: require("./Assets/audio/d_romer2.flac"),
-                ogg: require("./Assets/audio/d_romer2.ogg")
+                flac: require("./Assets/Audio/d_romer2.flac"),
+                ogg: require("./Assets/Audio/d_romer2.ogg")
             },
             d_romero: {
-                ogg: require("./Assets/audio/d_romero.ogg"),
-                flac: require("./Assets/audio/d_romero.flac")
+                ogg: require("./Assets/Audio/d_romero.ogg"),
+                flac: require("./Assets/Audio/d_romero.flac")
             },
             d_runni2: {
-                ogg: require("./Assets/audio/d_runni2.ogg"),
-                flac: require("./Assets/audio/d_runni2.flac")
+                ogg: require("./Assets/Audio/d_runni2.ogg"),
+                flac: require("./Assets/Audio/d_runni2.flac")
             },
             d_runnin: {
-                flac: require("./Assets/audio/d_runnin.flac"),
-                ogg: require("./Assets/audio/d_runnin.ogg")
+                flac: require("./Assets/Audio/d_runnin.flac"),
+                ogg: require("./Assets/Audio/d_runnin.ogg")
             },
             d_shawn: {
-                flac: require("./Assets/audio/d_shawn.flac"),
-                ogg: require("./Assets/audio/d_shawn.ogg")
+                flac: require("./Assets/Audio/d_shawn.flac"),
+                ogg: require("./Assets/Audio/d_shawn.ogg")
             },
             d_shawn2: {
-                flac: require("./Assets/audio/d_shawn2.flac"),
-                ogg: require("./Assets/audio/d_shawn2.ogg")
+                flac: require("./Assets/Audio/d_shawn2.flac"),
+                ogg: require("./Assets/Audio/d_shawn2.ogg")
             },
             d_shawn3: {
-                flac: require("./Assets/audio/d_shawn3.flac"),
-                ogg: require("./Assets/audio/d_shawn3.ogg")
+                flac: require("./Assets/Audio/d_shawn3.flac"),
+                ogg: require("./Assets/Audio/d_shawn3.ogg")
             },
             d_stalks: {
-                flac: require("./Assets/audio/d_stalks.flac"),
-                ogg: require("./Assets/audio/d_stalks.ogg")
+                flac: require("./Assets/Audio/d_stalks.flac"),
+                ogg: require("./Assets/Audio/d_stalks.ogg")
             },
             d_stlks2: {
-                flac: require("./Assets/audio/d_stlks2.flac"),
-                ogg: require("./Assets/audio/d_stlks2.ogg")
+                flac: require("./Assets/Audio/d_stlks2.flac"),
+                ogg: require("./Assets/Audio/d_stlks2.ogg")
             },
             d_stlks3: {
-                ogg: require("./Assets/audio/d_stlks3.ogg"),
-                flac: require("./Assets/audio/d_stlks3.flac")
+                ogg: require("./Assets/Audio/d_stlks3.ogg"),
+                flac: require("./Assets/Audio/d_stlks3.flac")
             },
             d_tense: {
-                flac: require("./Assets/audio/d_tense.flac"),
-                ogg: require("./Assets/audio/d_tense.ogg")
+                flac: require("./Assets/Audio/d_tense.flac"),
+                ogg: require("./Assets/Audio/d_tense.ogg")
             },
             d_the_da: {
-                flac: require("./Assets/audio/d_the_da.flac"),
-                ogg: require("./Assets/audio/d_the_da.ogg")
+                flac: require("./Assets/Audio/d_the_da.flac"),
+                ogg: require("./Assets/Audio/d_the_da.ogg")
             },
             d_theda2: {
-                flac: require("./Assets/audio/d_theda2.flac"),
-                ogg: require("./Assets/audio/d_theda2.ogg")
+                flac: require("./Assets/Audio/d_theda2.flac"),
+                ogg: require("./Assets/Audio/d_theda2.ogg")
             },
             d_theda3: {
-                flac: require("./Assets/audio/d_theda3.flac"),
-                ogg: require("./Assets/audio/d_theda3.ogg")
+                flac: require("./Assets/Audio/d_theda3.flac"),
+                ogg: require("./Assets/Audio/d_theda3.ogg")
             },
             d_ultima: {
-                flac: require("./Assets/audio/d_ultima.flac"),
-                ogg: require("./Assets/audio/d_ultima.ogg")
+                flac: require("./Assets/Audio/d_ultima.flac"),
+                ogg: require("./Assets/Audio/d_ultima.ogg")
             }
         };
     }, {
-        "./Assets/audio/d_adrian.flac": "NS0i",
-        "./Assets/audio/d_adrian.ogg": "i5i8",
-        "./Assets/audio/d_ampie.flac": "QJmY",
-        "./Assets/audio/d_ampie.ogg": "rVqg",
-        "./Assets/audio/d_betwee.flac": "PGoy",
-        "./Assets/audio/d_betwee.ogg": "n9O2",
-        "./Assets/audio/d_count2.flac": "DsoC",
-        "./Assets/audio/d_count2.ogg": "yRZb",
-        "./Assets/audio/d_countd.flac": "JSJV",
-        "./Assets/audio/d_countd.ogg": "X7ol",
-        "./Assets/audio/d_ddtbl2.flac": "DzID",
-        "./Assets/audio/d_ddtbl2.ogg": "Kba0",
-        "./Assets/audio/d_ddtbl3.flac": "yMF5",
-        "./Assets/audio/d_ddtbl3.ogg": "Su0Y",
-        "./Assets/audio/d_ddtblu.flac": "tOmu",
-        "./Assets/audio/d_ddtblu.ogg": "VCIR",
-        "./Assets/audio/d_dead.flac": "TdfV",
-        "./Assets/audio/d_dead.ogg": "rOr9",
-        "./Assets/audio/d_dead2.flac": "VcGa",
-        "./Assets/audio/d_dead2.ogg": "ibmm",
-        "./Assets/audio/d_dm2int.flac": "TYdo",
-        "./Assets/audio/d_dm2int.ogg": "yf2U",
-        "./Assets/audio/d_dm2ttl.flac": "QJpc",
-        "./Assets/audio/d_dm2ttl.ogg": "QB1k",
-        "./Assets/audio/d_doom.flac": "yo0I",
-        "./Assets/audio/d_doom.ogg": "y5vI",
-        "./Assets/audio/d_doom2.flac": "qknf",
-        "./Assets/audio/d_doom2.ogg": "OdfD",
-        "./Assets/audio/d_evil.flac": "qOXv",
-        "./Assets/audio/d_evil.ogg": "Ru8L",
-        "./Assets/audio/d_in_cit.flac": "QDOS",
-        "./Assets/audio/d_in_cit.ogg": "SCvH",
-        "./Assets/audio/d_messag.flac": "CycL",
-        "./Assets/audio/d_messag.ogg": "rqxl",
-        "./Assets/audio/d_messg2.flac": "gSly",
-        "./Assets/audio/d_messg2.ogg": "RI68",
-        "./Assets/audio/d_openin.flac": "XVYm",
-        "./Assets/audio/d_openin.ogg": "FQZG",
-        "./Assets/audio/d_read_m.flac": "faZO",
-        "./Assets/audio/d_read_m.ogg": "vGGU",
-        "./Assets/audio/d_romer2.flac": "WHtb",
-        "./Assets/audio/d_romer2.ogg": "qwvq",
-        "./Assets/audio/d_romero.ogg": "Ju30",
-        "./Assets/audio/d_romero.flac": "qubu",
-        "./Assets/audio/d_runni2.ogg": "bghk",
-        "./Assets/audio/d_runni2.flac": "N2cn",
-        "./Assets/audio/d_runnin.flac": "BFl1",
-        "./Assets/audio/d_runnin.ogg": "TfBX",
-        "./Assets/audio/d_shawn.flac": "PNXH",
-        "./Assets/audio/d_shawn.ogg": "yOXH",
-        "./Assets/audio/d_shawn2.flac": "B6Ec",
-        "./Assets/audio/d_shawn2.ogg": "IeWH",
-        "./Assets/audio/d_shawn3.flac": "dZ4G",
-        "./Assets/audio/d_shawn3.ogg": "oS1L",
-        "./Assets/audio/d_stalks.flac": "EOHZ",
-        "./Assets/audio/d_stalks.ogg": "AgRT",
-        "./Assets/audio/d_stlks2.flac": "pZXZ",
-        "./Assets/audio/d_stlks2.ogg": "XJWC",
-        "./Assets/audio/d_stlks3.ogg": "tqT5",
-        "./Assets/audio/d_stlks3.flac": "Am6d",
-        "./Assets/audio/d_tense.flac": "gSfK",
-        "./Assets/audio/d_tense.ogg": "UXlW",
-        "./Assets/audio/d_the_da.flac": "bOEs",
-        "./Assets/audio/d_the_da.ogg": "Y37t",
-        "./Assets/audio/d_theda2.flac": "tnjO",
-        "./Assets/audio/d_theda2.ogg": "gcvQ",
-        "./Assets/audio/d_theda3.flac": "xqMZ",
-        "./Assets/audio/d_theda3.ogg": "OHLv",
-        "./Assets/audio/d_ultima.flac": "aums",
-        "./Assets/audio/d_ultima.ogg": "iJPP"
+        "./Assets/Audio/d_adrian.flac": "NS0i",
+        "./Assets/Audio/d_adrian.ogg": "i5i8",
+        "./Assets/Audio/d_ampie.flac": "QJmY",
+        "./Assets/Audio/d_ampie.ogg": "rVqg",
+        "./Assets/Audio/d_betwee.flac": "PGoy",
+        "./Assets/Audio/d_betwee.ogg": "n9O2",
+        "./Assets/Audio/d_count2.flac": "DsoC",
+        "./Assets/Audio/d_count2.ogg": "yRZb",
+        "./Assets/Audio/d_countd.flac": "JSJV",
+        "./Assets/Audio/d_countd.ogg": "X7ol",
+        "./Assets/Audio/d_ddtbl2.flac": "DzID",
+        "./Assets/Audio/d_ddtbl2.ogg": "Kba0",
+        "./Assets/Audio/d_ddtbl3.flac": "yMF5",
+        "./Assets/Audio/d_ddtbl3.ogg": "Su0Y",
+        "./Assets/Audio/d_ddtblu.flac": "tOmu",
+        "./Assets/Audio/d_ddtblu.ogg": "VCIR",
+        "./Assets/Audio/d_dead.flac": "TdfV",
+        "./Assets/Audio/d_dead.ogg": "rOr9",
+        "./Assets/Audio/d_dead2.flac": "VcGa",
+        "./Assets/Audio/d_dead2.ogg": "ibmm",
+        "./Assets/Audio/d_dm2int.flac": "TYdo",
+        "./Assets/Audio/d_dm2int.ogg": "yf2U",
+        "./Assets/Audio/d_dm2ttl.flac": "QJpc",
+        "./Assets/Audio/d_dm2ttl.ogg": "QB1k",
+        "./Assets/Audio/d_doom.flac": "yo0I",
+        "./Assets/Audio/d_doom.ogg": "y5vI",
+        "./Assets/Audio/d_doom2.flac": "qknf",
+        "./Assets/Audio/d_doom2.ogg": "OdfD",
+        "./Assets/Audio/d_evil.flac": "qOXv",
+        "./Assets/Audio/d_evil.ogg": "Ru8L",
+        "./Assets/Audio/d_in_cit.flac": "QDOS",
+        "./Assets/Audio/d_in_cit.ogg": "SCvH",
+        "./Assets/Audio/d_messag.flac": "CycL",
+        "./Assets/Audio/d_messag.ogg": "rqxl",
+        "./Assets/Audio/d_messg2.flac": "gSly",
+        "./Assets/Audio/d_messg2.ogg": "RI68",
+        "./Assets/Audio/d_openin.flac": "XVYm",
+        "./Assets/Audio/d_openin.ogg": "FQZG",
+        "./Assets/Audio/d_read_m.flac": "faZO",
+        "./Assets/Audio/d_read_m.ogg": "vGGU",
+        "./Assets/Audio/d_romer2.flac": "WHtb",
+        "./Assets/Audio/d_romer2.ogg": "qwvq",
+        "./Assets/Audio/d_romero.ogg": "Ju30",
+        "./Assets/Audio/d_romero.flac": "qubu",
+        "./Assets/Audio/d_runni2.ogg": "bghk",
+        "./Assets/Audio/d_runni2.flac": "N2cn",
+        "./Assets/Audio/d_runnin.flac": "BFl1",
+        "./Assets/Audio/d_runnin.ogg": "TfBX",
+        "./Assets/Audio/d_shawn.flac": "PNXH",
+        "./Assets/Audio/d_shawn.ogg": "yOXH",
+        "./Assets/Audio/d_shawn2.flac": "B6Ec",
+        "./Assets/Audio/d_shawn2.ogg": "IeWH",
+        "./Assets/Audio/d_shawn3.flac": "dZ4G",
+        "./Assets/Audio/d_shawn3.ogg": "oS1L",
+        "./Assets/Audio/d_stalks.flac": "EOHZ",
+        "./Assets/Audio/d_stalks.ogg": "AgRT",
+        "./Assets/Audio/d_stlks2.flac": "pZXZ",
+        "./Assets/Audio/d_stlks2.ogg": "XJWC",
+        "./Assets/Audio/d_stlks3.ogg": "tqT5",
+        "./Assets/Audio/d_stlks3.flac": "Am6d",
+        "./Assets/Audio/d_tense.flac": "gSfK",
+        "./Assets/Audio/d_tense.ogg": "UXlW",
+        "./Assets/Audio/d_the_da.flac": "bOEs",
+        "./Assets/Audio/d_the_da.ogg": "Y37t",
+        "./Assets/Audio/d_theda2.flac": "tnjO",
+        "./Assets/Audio/d_theda2.ogg": "gcvQ",
+        "./Assets/Audio/d_theda3.flac": "xqMZ",
+        "./Assets/Audio/d_theda3.ogg": "OHLv",
+        "./Assets/Audio/d_ultima.flac": "aums",
+        "./Assets/Audio/d_ultima.ogg": "iJPP"
     }],
     "MT40": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_adrian.44dc8285.flac";
+        module.exports = "./Assets/Audio/d_adrian.44dc8285.flac";
     }, {}],
     "jsAq": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_adrian.3c87fcf4.ogg";
+        module.exports = "./Assets/Audio/d_adrian.3c87fcf4.ogg";
     }, {}],
     "eMGJ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ampie.ea8d37fe.flac";
+        module.exports = "./Assets/Audio/d_ampie.ea8d37fe.flac";
     }, {}],
     "qLPf": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ampie.3420f42b.ogg";
+        module.exports = "./Assets/Audio/d_ampie.3420f42b.ogg";
     }, {}],
     "rrml": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_betwee.6e0aaac4.flac";
+        module.exports = "./Assets/Audio/d_betwee.6e0aaac4.flac";
     }, {}],
     "D0uO": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_count2.f459aa7d.flac";
+        module.exports = "./Assets/Audio/d_count2.f459aa7d.flac";
     }, {}],
     "vHWF": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_betwee.b9ea9513.ogg";
+        module.exports = "./Assets/Audio/d_betwee.b9ea9513.ogg";
     }, {}],
     "FIuI": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_count2.0d6afb88.ogg";
+        module.exports = "./Assets/Audio/d_count2.0d6afb88.ogg";
     }, {}],
     "pFJu": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_countd.c365115b.flac";
+        module.exports = "./Assets/Audio/d_countd.c365115b.flac";
     }, {}],
     "JIpX": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_countd.2de741c1.ogg";
+        module.exports = "./Assets/Audio/d_countd.2de741c1.ogg";
     }, {}],
     "hcx4": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl2.692b915d.flac";
+        module.exports = "./Assets/Audio/d_ddtbl2.692b915d.flac";
     }, {}],
     "H5wv": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl2.50a646b7.ogg";
+        module.exports = "./Assets/Audio/d_ddtbl2.50a646b7.ogg";
     }, {}],
     "k1Vz": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl3.ca8ca635.flac";
+        module.exports = "./Assets/Audio/d_ddtbl3.ca8ca635.flac";
     }, {}],
     "dDPQ": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtbl3.67d32f77.ogg";
+        module.exports = "./Assets/Audio/d_ddtbl3.67d32f77.ogg";
     }, {}],
     "ZEfD": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtblu.3e6dc4af.flac";
+        module.exports = "./Assets/Audio/d_ddtblu.3e6dc4af.flac";
     }, {}],
     "Qasc": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ddtblu.1c90f63f.ogg";
+        module.exports = "./Assets/Audio/d_ddtblu.1c90f63f.ogg";
     }, {}],
     "MnXb": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead.79432693.flac";
+        module.exports = "./Assets/Audio/d_dead.79432693.flac";
     }, {}],
     "OYpp": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead.c5870ab5.ogg";
+        module.exports = "./Assets/Audio/d_dead.c5870ab5.ogg";
     }, {}],
     "M1rq": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead2.28a43f42.flac";
+        module.exports = "./Assets/Audio/d_dead2.28a43f42.flac";
     }, {}],
     "feLH": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dead2.24c41da6.ogg";
+        module.exports = "./Assets/Audio/d_dead2.24c41da6.ogg";
     }, {}],
     "tmkN": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2int.8ac95374.flac";
+        module.exports = "./Assets/Audio/d_dm2int.8ac95374.flac";
     }, {}],
     "owvs": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2int.c340101c.ogg";
+        module.exports = "./Assets/Audio/d_dm2int.c340101c.ogg";
     }, {}],
     "P07L": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2ttl.972b1d63.flac";
+        module.exports = "./Assets/Audio/d_dm2ttl.972b1d63.flac";
     }, {}],
     "LWxU": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_dm2ttl.1287fe81.ogg";
+        module.exports = "./Assets/Audio/d_dm2ttl.1287fe81.ogg";
     }, {}],
     "SpTI": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom.c012ff31.flac";
+        module.exports = "./Assets/Audio/d_doom.c012ff31.flac";
     }, {}],
     "PxuN": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom.07b2b7c1.ogg";
+        module.exports = "./Assets/Audio/d_doom.07b2b7c1.ogg";
     }, {}],
     "OfJw": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom2.229f87b7.flac";
+        module.exports = "./Assets/Audio/d_doom2.229f87b7.flac";
     }, {}],
     "oRXz": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_doom2.7c018c4e.ogg";
+        module.exports = "./Assets/Audio/d_doom2.7c018c4e.ogg";
     }, {}],
     "HTS1": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_evil.2bb8daad.flac";
+        module.exports = "./Assets/Audio/d_evil.2bb8daad.flac";
     }, {}],
     "Al8C": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_evil.3fc34108.ogg";
+        module.exports = "./Assets/Audio/d_evil.3fc34108.ogg";
     }, {}],
     "jJcT": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_in_cit.ded69f18.flac";
+        module.exports = "./Assets/Audio/d_in_cit.ded69f18.flac";
     }, {}],
     "zhzH": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_in_cit.8b995362.ogg";
+        module.exports = "./Assets/Audio/d_in_cit.8b995362.ogg";
     }, {}],
     "O5MR": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messag.ee6a7f2f.flac";
+        module.exports = "./Assets/Audio/d_messag.ee6a7f2f.flac";
     }, {}],
     "mybW": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messag.4acc47ea.ogg";
+        module.exports = "./Assets/Audio/d_messag.4acc47ea.ogg";
     }, {}],
     "zZmP": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messg2.b1e5c70e.flac";
+        module.exports = "./Assets/Audio/d_messg2.b1e5c70e.flac";
     }, {}],
     "cRnk": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_messg2.a71cbff4.ogg";
+        module.exports = "./Assets/Audio/d_messg2.a71cbff4.ogg";
     }, {}],
     "lN7L": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_openin.5304a270.flac";
+        module.exports = "./Assets/Audio/d_openin.5304a270.flac";
     }, {}],
     "HL0J": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_openin.6c84172f.ogg";
+        module.exports = "./Assets/Audio/d_openin.6c84172f.ogg";
     }, {}],
     "bQQx": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_read_m.4d7b1905.flac";
+        module.exports = "./Assets/Audio/d_read_m.4d7b1905.flac";
     }, {}],
     "Hb9f": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_read_m.5f141894.ogg";
+        module.exports = "./Assets/Audio/d_read_m.5f141894.ogg";
     }, {}],
     "txve": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romer2.b1c55873.flac";
+        module.exports = "./Assets/Audio/d_romer2.b1c55873.flac";
     }, {}],
     "KSKi": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romer2.dfab5483.ogg";
+        module.exports = "./Assets/Audio/d_romer2.dfab5483.ogg";
     }, {}],
     "QwCm": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romero.0f8241a9.flac";
+        module.exports = "./Assets/Audio/d_romero.0f8241a9.flac";
     }, {}],
     "Bwzk": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_romero.f7a68f27.ogg";
+        module.exports = "./Assets/Audio/d_romero.f7a68f27.ogg";
     }, {}],
     "ouky": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runni2.d8f3f70e.flac";
+        module.exports = "./Assets/Audio/d_runni2.d8f3f70e.flac";
     }, {}],
     "sgza": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runni2.19522d41.ogg";
+        module.exports = "./Assets/Audio/d_runni2.19522d41.ogg";
     }, {}],
     "mq00": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runnin.cef57ba5.flac";
+        module.exports = "./Assets/Audio/d_runnin.cef57ba5.flac";
     }, {}],
     "eEL1": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_runnin.c6cc6a3d.ogg";
+        module.exports = "./Assets/Audio/d_runnin.c6cc6a3d.ogg";
     }, {}],
     "HpKm": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn.340c022e.ogg";
+        module.exports = "./Assets/Audio/d_shawn.340c022e.ogg";
     }, {}],
     "KGaX": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn.fad8f8ec.flac";
+        module.exports = "./Assets/Audio/d_shawn.fad8f8ec.flac";
     }, {}],
     "KXlp": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn2.b26b54d9.flac";
+        module.exports = "./Assets/Audio/d_shawn2.b26b54d9.flac";
     }, {}],
     "xNqS": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn2.cdc0ef12.ogg";
+        module.exports = "./Assets/Audio/d_shawn2.cdc0ef12.ogg";
     }, {}],
     "uLfx": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn3.d12a349d.flac";
+        module.exports = "./Assets/Audio/d_shawn3.d12a349d.flac";
     }, {}],
     "K8pj": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_shawn3.5926fcdb.ogg";
+        module.exports = "./Assets/Audio/d_shawn3.5926fcdb.ogg";
     }, {}],
     "xxRD": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stalks.975b1196.flac";
+        module.exports = "./Assets/Audio/d_stalks.975b1196.flac";
     }, {}],
     "SEsn": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stalks.feac0dc6.ogg";
+        module.exports = "./Assets/Audio/d_stalks.feac0dc6.ogg";
     }, {}],
     "Bv7F": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks2.eaf9d154.flac";
+        module.exports = "./Assets/Audio/d_stlks2.eaf9d154.flac";
     }, {}],
     "S416": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks2.379aa870.ogg";
+        module.exports = "./Assets/Audio/d_stlks2.379aa870.ogg";
     }, {}],
     "R8a0": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks3.d831951b.flac";
+        module.exports = "./Assets/Audio/d_stlks3.d831951b.flac";
     }, {}],
     "xRlU": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_stlks3.8fd3b181.ogg";
+        module.exports = "./Assets/Audio/d_stlks3.8fd3b181.ogg";
     }, {}],
     "XZr3": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_tense.24b48df8.flac";
+        module.exports = "./Assets/Audio/d_tense.24b48df8.flac";
     }, {}],
     "jh72": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_tense.14524bec.ogg";
+        module.exports = "./Assets/Audio/d_tense.14524bec.ogg";
     }, {}],
     "WNC2": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_the_da.6ca0ec80.flac";
+        module.exports = "./Assets/Audio/d_the_da.6ca0ec80.flac";
     }, {}],
     "JAwl": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_the_da.8e9dbb5a.ogg";
+        module.exports = "./Assets/Audio/d_the_da.8e9dbb5a.ogg";
     }, {}],
     "wjHx": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda2.3c2fde3d.flac";
+        module.exports = "./Assets/Audio/d_theda2.3c2fde3d.flac";
     }, {}],
     "zoPa": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda2.e0116489.ogg";
+        module.exports = "./Assets/Audio/d_theda2.e0116489.ogg";
     }, {}],
     "IzQa": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda3.d8cf0264.flac";
+        module.exports = "./Assets/Audio/d_theda3.d8cf0264.flac";
     }, {}],
     "ld1O": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_theda3.177ebb46.ogg";
+        module.exports = "./Assets/Audio/d_theda3.177ebb46.ogg";
     }, {}],
     "U37a": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ultima.480cd8ff.flac";
+        module.exports = "./Assets/Audio/d_ultima.480cd8ff.flac";
     }, {}],
     "m96F": [function (require, module, exports) {
-        module.exports = "./Assets/audio/d_ultima.ebaac1e1.ogg";
+        module.exports = "./Assets/Audio/d_ultima.ebaac1e1.ogg";
     }, {}],
     "DRQ1": [function (require, module, exports) {
         module.exports = {
             d_adrian: {
-                flac: require("./Assets/audio/d_adrian.flac"),
-                ogg: require("./Assets/audio/d_adrian.ogg")
+                flac: require("./Assets/Audio/d_adrian.flac"),
+                ogg: require("./Assets/Audio/d_adrian.ogg")
             },
             d_ampie: {
-                flac: require("./Assets/audio/d_ampie.flac"),
-                ogg: require("./Assets/audio/d_ampie.ogg")
+                flac: require("./Assets/Audio/d_ampie.flac"),
+                ogg: require("./Assets/Audio/d_ampie.ogg")
             },
             d_betwee: {
-                flac: require("./Assets/audio/d_betwee.flac"),
-                ogg: require("./Assets/audio/d_betwee.ogg")
+                flac: require("./Assets/Audio/d_betwee.flac"),
+                ogg: require("./Assets/Audio/d_betwee.ogg")
             },
             d_count2: {
-                flac: require("./Assets/audio/d_count2.flac"),
-                ogg: require("./Assets/audio/d_count2.ogg")
+                flac: require("./Assets/Audio/d_count2.flac"),
+                ogg: require("./Assets/Audio/d_count2.ogg")
             },
             d_countd: {
-                flac: require("./Assets/audio/d_countd.flac"),
-                ogg: require("./Assets/audio/d_countd.ogg")
+                flac: require("./Assets/Audio/d_countd.flac"),
+                ogg: require("./Assets/Audio/d_countd.ogg")
             },
             d_ddtbl2: {
-                flac: require("./Assets/audio/d_ddtbl2.flac"),
-                ogg: require("./Assets/audio/d_ddtbl2.ogg")
+                flac: require("./Assets/Audio/d_ddtbl2.flac"),
+                ogg: require("./Assets/Audio/d_ddtbl2.ogg")
             },
             d_ddtbl3: {
-                flac: require("./Assets/audio/d_ddtbl3.flac"),
-                ogg: require("./Assets/audio/d_ddtbl3.ogg")
+                flac: require("./Assets/Audio/d_ddtbl3.flac"),
+                ogg: require("./Assets/Audio/d_ddtbl3.ogg")
             },
             d_ddtblu: {
-                flac: require("./Assets/audio/d_ddtblu.flac"),
-                ogg: require("./Assets/audio/d_ddtblu.ogg")
+                flac: require("./Assets/Audio/d_ddtblu.flac"),
+                ogg: require("./Assets/Audio/d_ddtblu.ogg")
             },
             d_dead: {
-                flac: require("./Assets/audio/d_dead.flac"),
-                ogg: require("./Assets/audio/d_dead.ogg")
+                flac: require("./Assets/Audio/d_dead.flac"),
+                ogg: require("./Assets/Audio/d_dead.ogg")
             },
             d_dead2: {
-                flac: require("./Assets/audio/d_dead2.flac"),
-                ogg: require("./Assets/audio/d_dead2.ogg")
+                flac: require("./Assets/Audio/d_dead2.flac"),
+                ogg: require("./Assets/Audio/d_dead2.ogg")
             },
             d_dm2int: {
-                flac: require("./Assets/audio/d_dm2int.flac"),
-                ogg: require("./Assets/audio/d_dm2int.ogg")
+                flac: require("./Assets/Audio/d_dm2int.flac"),
+                ogg: require("./Assets/Audio/d_dm2int.ogg")
             },
             d_dm2ttl: {
-                flac: require("./Assets/audio/d_dm2ttl.flac"),
-                ogg: require("./Assets/audio/d_dm2ttl.ogg")
+                flac: require("./Assets/Audio/d_dm2ttl.flac"),
+                ogg: require("./Assets/Audio/d_dm2ttl.ogg")
             },
             d_doom: {
-                flac: require("./Assets/audio/d_doom.flac"),
-                ogg: require("./Assets/audio/d_doom.ogg")
+                flac: require("./Assets/Audio/d_doom.flac"),
+                ogg: require("./Assets/Audio/d_doom.ogg")
             },
             d_doom2: {
-                flac: require("./Assets/audio/d_doom2.flac"),
-                ogg: require("./Assets/audio/d_doom2.ogg")
+                flac: require("./Assets/Audio/d_doom2.flac"),
+                ogg: require("./Assets/Audio/d_doom2.ogg")
             },
             d_evil: {
-                flac: require("./Assets/audio/d_evil.flac"),
-                ogg: require("./Assets/audio/d_evil.ogg")
+                flac: require("./Assets/Audio/d_evil.flac"),
+                ogg: require("./Assets/Audio/d_evil.ogg")
             },
             d_in_cit: {
-                flac: require("./Assets/audio/d_in_cit.flac"),
-                ogg: require("./Assets/audio/d_in_cit.ogg")
+                flac: require("./Assets/Audio/d_in_cit.flac"),
+                ogg: require("./Assets/Audio/d_in_cit.ogg")
             },
             d_messag: {
-                flac: require("./Assets/audio/d_messag.flac"),
-                ogg: require("./Assets/audio/d_messag.ogg")
+                flac: require("./Assets/Audio/d_messag.flac"),
+                ogg: require("./Assets/Audio/d_messag.ogg")
             },
             d_messg2: {
-                flac: require("./Assets/audio/d_messg2.flac"),
-                ogg: require("./Assets/audio/d_messg2.ogg")
+                flac: require("./Assets/Audio/d_messg2.flac"),
+                ogg: require("./Assets/Audio/d_messg2.ogg")
             },
             d_openin: {
-                flac: require("./Assets/audio/d_openin.flac"),
-                ogg: require("./Assets/audio/d_openin.ogg")
+                flac: require("./Assets/Audio/d_openin.flac"),
+                ogg: require("./Assets/Audio/d_openin.ogg")
             },
             d_read_m: {
-                flac: require("./Assets/audio/d_read_m.flac"),
-                ogg: require("./Assets/audio/d_read_m.ogg")
+                flac: require("./Assets/Audio/d_read_m.flac"),
+                ogg: require("./Assets/Audio/d_read_m.ogg")
             },
             d_romer2: {
-                flac: require("./Assets/audio/d_romer2.flac"),
-                ogg: require("./Assets/audio/d_romer2.ogg")
+                flac: require("./Assets/Audio/d_romer2.flac"),
+                ogg: require("./Assets/Audio/d_romer2.ogg")
             },
             d_romero: {
-                flac: require("./Assets/audio/d_romero.flac"),
-                ogg: require("./Assets/audio/d_romero.ogg")
+                flac: require("./Assets/Audio/d_romero.flac"),
+                ogg: require("./Assets/Audio/d_romero.ogg")
             },
             d_runni2: {
-                flac: require("./Assets/audio/d_runni2.flac"),
-                ogg: require("./Assets/audio/d_runni2.ogg")
+                flac: require("./Assets/Audio/d_runni2.flac"),
+                ogg: require("./Assets/Audio/d_runni2.ogg")
             },
             d_runnin: {
-                flac: require("./Assets/audio/d_runnin.flac"),
-                ogg: require("./Assets/audio/d_runnin.ogg")
+                flac: require("./Assets/Audio/d_runnin.flac"),
+                ogg: require("./Assets/Audio/d_runnin.ogg")
             },
             d_shawn: {
-                ogg: require("./Assets/audio/d_shawn.ogg"),
-                flac: require("./Assets/audio/d_shawn.flac")
+                ogg: require("./Assets/Audio/d_shawn.ogg"),
+                flac: require("./Assets/Audio/d_shawn.flac")
             },
             d_shawn2: {
-                flac: require("./Assets/audio/d_shawn2.flac"),
-                ogg: require("./Assets/audio/d_shawn2.ogg")
+                flac: require("./Assets/Audio/d_shawn2.flac"),
+                ogg: require("./Assets/Audio/d_shawn2.ogg")
             },
             d_shawn3: {
-                flac: require("./Assets/audio/d_shawn3.flac"),
-                ogg: require("./Assets/audio/d_shawn3.ogg")
+                flac: require("./Assets/Audio/d_shawn3.flac"),
+                ogg: require("./Assets/Audio/d_shawn3.ogg")
             },
             d_stalks: {
-                flac: require("./Assets/audio/d_stalks.flac"),
-                ogg: require("./Assets/audio/d_stalks.ogg")
+                flac: require("./Assets/Audio/d_stalks.flac"),
+                ogg: require("./Assets/Audio/d_stalks.ogg")
             },
             d_stlks2: {
-                flac: require("./Assets/audio/d_stlks2.flac"),
-                ogg: require("./Assets/audio/d_stlks2.ogg")
+                flac: require("./Assets/Audio/d_stlks2.flac"),
+                ogg: require("./Assets/Audio/d_stlks2.ogg")
             },
             d_stlks3: {
-                flac: require("./Assets/audio/d_stlks3.flac"),
-                ogg: require("./Assets/audio/d_stlks3.ogg")
+                flac: require("./Assets/Audio/d_stlks3.flac"),
+                ogg: require("./Assets/Audio/d_stlks3.ogg")
             },
             d_tense: {
-                flac: require("./Assets/audio/d_tense.flac"),
-                ogg: require("./Assets/audio/d_tense.ogg")
+                flac: require("./Assets/Audio/d_tense.flac"),
+                ogg: require("./Assets/Audio/d_tense.ogg")
             },
             d_the_da: {
-                flac: require("./Assets/audio/d_the_da.flac"),
-                ogg: require("./Assets/audio/d_the_da.ogg")
+                flac: require("./Assets/Audio/d_the_da.flac"),
+                ogg: require("./Assets/Audio/d_the_da.ogg")
             },
             d_theda2: {
-                flac: require("./Assets/audio/d_theda2.flac"),
-                ogg: require("./Assets/audio/d_theda2.ogg")
+                flac: require("./Assets/Audio/d_theda2.flac"),
+                ogg: require("./Assets/Audio/d_theda2.ogg")
             },
             d_theda3: {
-                flac: require("./Assets/audio/d_theda3.flac"),
-                ogg: require("./Assets/audio/d_theda3.ogg")
+                flac: require("./Assets/Audio/d_theda3.flac"),
+                ogg: require("./Assets/Audio/d_theda3.ogg")
             },
             d_ultima: {
-                flac: require("./Assets/audio/d_ultima.flac"),
-                ogg: require("./Assets/audio/d_ultima.ogg")
+                flac: require("./Assets/Audio/d_ultima.flac"),
+                ogg: require("./Assets/Audio/d_ultima.ogg")
             }
         };
     }, {
-        "./Assets/audio/d_adrian.flac": "MT40",
-        "./Assets/audio/d_adrian.ogg": "jsAq",
-        "./Assets/audio/d_ampie.flac": "eMGJ",
-        "./Assets/audio/d_ampie.ogg": "qLPf",
-        "./Assets/audio/d_betwee.flac": "rrml",
-        "./Assets/audio/d_count2.flac": "D0uO",
-        "./Assets/audio/d_betwee.ogg": "vHWF",
-        "./Assets/audio/d_count2.ogg": "FIuI",
-        "./Assets/audio/d_countd.flac": "pFJu",
-        "./Assets/audio/d_countd.ogg": "JIpX",
-        "./Assets/audio/d_ddtbl2.flac": "hcx4",
-        "./Assets/audio/d_ddtbl2.ogg": "H5wv",
-        "./Assets/audio/d_ddtbl3.flac": "k1Vz",
-        "./Assets/audio/d_ddtbl3.ogg": "dDPQ",
-        "./Assets/audio/d_ddtblu.flac": "ZEfD",
-        "./Assets/audio/d_ddtblu.ogg": "Qasc",
-        "./Assets/audio/d_dead.flac": "MnXb",
-        "./Assets/audio/d_dead.ogg": "OYpp",
-        "./Assets/audio/d_dead2.flac": "M1rq",
-        "./Assets/audio/d_dead2.ogg": "feLH",
-        "./Assets/audio/d_dm2int.flac": "tmkN",
-        "./Assets/audio/d_dm2int.ogg": "owvs",
-        "./Assets/audio/d_dm2ttl.flac": "P07L",
-        "./Assets/audio/d_dm2ttl.ogg": "LWxU",
-        "./Assets/audio/d_doom.flac": "SpTI",
-        "./Assets/audio/d_doom.ogg": "PxuN",
-        "./Assets/audio/d_doom2.flac": "OfJw",
-        "./Assets/audio/d_doom2.ogg": "oRXz",
-        "./Assets/audio/d_evil.flac": "HTS1",
-        "./Assets/audio/d_evil.ogg": "Al8C",
-        "./Assets/audio/d_in_cit.flac": "jJcT",
-        "./Assets/audio/d_in_cit.ogg": "zhzH",
-        "./Assets/audio/d_messag.flac": "O5MR",
-        "./Assets/audio/d_messag.ogg": "mybW",
-        "./Assets/audio/d_messg2.flac": "zZmP",
-        "./Assets/audio/d_messg2.ogg": "cRnk",
-        "./Assets/audio/d_openin.flac": "lN7L",
-        "./Assets/audio/d_openin.ogg": "HL0J",
-        "./Assets/audio/d_read_m.flac": "bQQx",
-        "./Assets/audio/d_read_m.ogg": "Hb9f",
-        "./Assets/audio/d_romer2.flac": "txve",
-        "./Assets/audio/d_romer2.ogg": "KSKi",
-        "./Assets/audio/d_romero.flac": "QwCm",
-        "./Assets/audio/d_romero.ogg": "Bwzk",
-        "./Assets/audio/d_runni2.flac": "ouky",
-        "./Assets/audio/d_runni2.ogg": "sgza",
-        "./Assets/audio/d_runnin.flac": "mq00",
-        "./Assets/audio/d_runnin.ogg": "eEL1",
-        "./Assets/audio/d_shawn.ogg": "HpKm",
-        "./Assets/audio/d_shawn.flac": "KGaX",
-        "./Assets/audio/d_shawn2.flac": "KXlp",
-        "./Assets/audio/d_shawn2.ogg": "xNqS",
-        "./Assets/audio/d_shawn3.flac": "uLfx",
-        "./Assets/audio/d_shawn3.ogg": "K8pj",
-        "./Assets/audio/d_stalks.flac": "xxRD",
-        "./Assets/audio/d_stalks.ogg": "SEsn",
-        "./Assets/audio/d_stlks2.flac": "Bv7F",
-        "./Assets/audio/d_stlks2.ogg": "S416",
-        "./Assets/audio/d_stlks3.flac": "R8a0",
-        "./Assets/audio/d_stlks3.ogg": "xRlU",
-        "./Assets/audio/d_tense.flac": "XZr3",
-        "./Assets/audio/d_tense.ogg": "jh72",
-        "./Assets/audio/d_the_da.flac": "WNC2",
-        "./Assets/audio/d_the_da.ogg": "JAwl",
-        "./Assets/audio/d_theda2.flac": "wjHx",
-        "./Assets/audio/d_theda2.ogg": "zoPa",
-        "./Assets/audio/d_theda3.flac": "IzQa",
-        "./Assets/audio/d_theda3.ogg": "ld1O",
-        "./Assets/audio/d_ultima.flac": "U37a",
-        "./Assets/audio/d_ultima.ogg": "m96F"
+        "./Assets/Audio/d_adrian.flac": "MT40",
+        "./Assets/Audio/d_adrian.ogg": "jsAq",
+        "./Assets/Audio/d_ampie.flac": "eMGJ",
+        "./Assets/Audio/d_ampie.ogg": "qLPf",
+        "./Assets/Audio/d_betwee.flac": "rrml",
+        "./Assets/Audio/d_count2.flac": "D0uO",
+        "./Assets/Audio/d_betwee.ogg": "vHWF",
+        "./Assets/Audio/d_count2.ogg": "FIuI",
+        "./Assets/Audio/d_countd.flac": "pFJu",
+        "./Assets/Audio/d_countd.ogg": "JIpX",
+        "./Assets/Audio/d_ddtbl2.flac": "hcx4",
+        "./Assets/Audio/d_ddtbl2.ogg": "H5wv",
+        "./Assets/Audio/d_ddtbl3.flac": "k1Vz",
+        "./Assets/Audio/d_ddtbl3.ogg": "dDPQ",
+        "./Assets/Audio/d_ddtblu.flac": "ZEfD",
+        "./Assets/Audio/d_ddtblu.ogg": "Qasc",
+        "./Assets/Audio/d_dead.flac": "MnXb",
+        "./Assets/Audio/d_dead.ogg": "OYpp",
+        "./Assets/Audio/d_dead2.flac": "M1rq",
+        "./Assets/Audio/d_dead2.ogg": "feLH",
+        "./Assets/Audio/d_dm2int.flac": "tmkN",
+        "./Assets/Audio/d_dm2int.ogg": "owvs",
+        "./Assets/Audio/d_dm2ttl.flac": "P07L",
+        "./Assets/Audio/d_dm2ttl.ogg": "LWxU",
+        "./Assets/Audio/d_doom.flac": "SpTI",
+        "./Assets/Audio/d_doom.ogg": "PxuN",
+        "./Assets/Audio/d_doom2.flac": "OfJw",
+        "./Assets/Audio/d_doom2.ogg": "oRXz",
+        "./Assets/Audio/d_evil.flac": "HTS1",
+        "./Assets/Audio/d_evil.ogg": "Al8C",
+        "./Assets/Audio/d_in_cit.flac": "jJcT",
+        "./Assets/Audio/d_in_cit.ogg": "zhzH",
+        "./Assets/Audio/d_messag.flac": "O5MR",
+        "./Assets/Audio/d_messag.ogg": "mybW",
+        "./Assets/Audio/d_messg2.flac": "zZmP",
+        "./Assets/Audio/d_messg2.ogg": "cRnk",
+        "./Assets/Audio/d_openin.flac": "lN7L",
+        "./Assets/Audio/d_openin.ogg": "HL0J",
+        "./Assets/Audio/d_read_m.flac": "bQQx",
+        "./Assets/Audio/d_read_m.ogg": "Hb9f",
+        "./Assets/Audio/d_romer2.flac": "txve",
+        "./Assets/Audio/d_romer2.ogg": "KSKi",
+        "./Assets/Audio/d_romero.flac": "QwCm",
+        "./Assets/Audio/d_romero.ogg": "Bwzk",
+        "./Assets/Audio/d_runni2.flac": "ouky",
+        "./Assets/Audio/d_runni2.ogg": "sgza",
+        "./Assets/Audio/d_runnin.flac": "mq00",
+        "./Assets/Audio/d_runnin.ogg": "eEL1",
+        "./Assets/Audio/d_shawn.ogg": "HpKm",
+        "./Assets/Audio/d_shawn.flac": "KGaX",
+        "./Assets/Audio/d_shawn2.flac": "KXlp",
+        "./Assets/Audio/d_shawn2.ogg": "xNqS",
+        "./Assets/Audio/d_shawn3.flac": "uLfx",
+        "./Assets/Audio/d_shawn3.ogg": "K8pj",
+        "./Assets/Audio/d_stalks.flac": "xxRD",
+        "./Assets/Audio/d_stalks.ogg": "SEsn",
+        "./Assets/Audio/d_stlks2.flac": "Bv7F",
+        "./Assets/Audio/d_stlks2.ogg": "S416",
+        "./Assets/Audio/d_stlks3.flac": "R8a0",
+        "./Assets/Audio/d_stlks3.ogg": "xRlU",
+        "./Assets/Audio/d_tense.flac": "XZr3",
+        "./Assets/Audio/d_tense.ogg": "jh72",
+        "./Assets/Audio/d_the_da.flac": "WNC2",
+        "./Assets/Audio/d_the_da.ogg": "JAwl",
+        "./Assets/Audio/d_theda2.flac": "wjHx",
+        "./Assets/Audio/d_theda2.ogg": "zoPa",
+        "./Assets/Audio/d_theda3.flac": "IzQa",
+        "./Assets/Audio/d_theda3.ogg": "ld1O",
+        "./Assets/Audio/d_ultima.flac": "U37a",
+        "./Assets/Audio/d_ultima.ogg": "m96F"
     }],
     "O3AG": [function (require, module, exports) {
         "use strict";
