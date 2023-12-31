@@ -19151,6 +19151,7 @@ parcelRequire = function (e, r, t, n) {
             e.default.createElement("button", {
                 className: "button",
             }, "Adam"),
+            
             e.default.createElement("p", null, "WAD Commander is a tool running in modern browsers to load and play WAD files of DOOM® and DOOM II®."),
             e.default.createElement("p", null, 'Both IWAD and PWAD files are supported. Drag and drop your WAD files to this window or open them using the "Open file(s)" button below. You can also open DeHackEd patch files and add them to the game the same way as WAD files.'),
             e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (",
