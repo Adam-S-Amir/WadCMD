@@ -16215,7 +16215,8 @@ parcelRequire = function (e, r, t, n) {
         }
 
         function t() {
-            return e.default.createElement("div", {})}
+            return e.default.createElement("div", {})
+        }
     }, {
         "react": "n8MK"
     }],
@@ -19122,7 +19123,12 @@ parcelRequire = function (e, r, t, n) {
         module.exports = "./Assets/Wads/freedoom1.wad";
     }, {}],
     "T7bT": [function (require, module, exports) {
-        module.exports = "./Assets/Wads/freedoom2.wad";
+        module.exports = {
+            guy: {
+                wad: "./Assets/Wads/freedoom2.wad",
+                wad: "./Assets/Wads/D64D2.wad"
+            }
+        }
     }, {}],
     "BVgo": [function (require, module, exports) {
         "use strict";
@@ -19140,35 +19146,41 @@ parcelRequire = function (e, r, t, n) {
             }
         }
         var n = require("./Assets/Wads/freedoom1.wad"),
-            d = require("./Assets/Wads/freedoom2.wad");
+            d = require("T7bT");
 
         function i() {
             return e.default.createElement(t.default, {
-                title: "Welcome",
-                className: "window--welcome"
-            },
+                    title: "Welcome",
+                    className: "window--welcome"
+                },
 
-            e.default.createElement("button", {
-                className: "button",
-            }, "Adam"),
-            e.default.createElement("p", null, "WAD Commander is a tool running in modern browsers to load and play WAD files of DOOM® and DOOM II®."),
-            e.default.createElement("p", null, 'Both IWAD and PWAD files are supported. Drag and drop your WAD files to this window or open them using the "Open file(s)" button below. You can also open DeHackEd patch files and add them to the game the same way as WAD files.'),
-            e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (",
-            e.default.createElement("a", { href: n, onClick: (0, l.fileFetch)("freedoom1.wad") }, "Phase 1"),
-            " ", "or", " ",
-            e.default.createElement("a", { href: d, onClick: (0, l.fileFetch)("freedoom2.wad") }, "Phase 2"),
-            ")."),
-            e.default.createElement("input", {
-                id: "file",
-                type: "file",
-                name: "file",
-                accept: ".wad,.deh",
-                multiple: !0,
-                onChange: l.fileUpload
-            }), e.default.createElement("label", {
-                htmlFor: "file",
-                className: "button"
-            }, "Open file(s)"))
+                e.default.createElement("button", {
+                    className: "button",
+                }, "Adam"),
+                e.default.createElement("p", null, "WAD Commander is a tool running in modern browsers to load and play WAD files of DOOM® and DOOM II®."),
+                e.default.createElement("p", null, 'Both IWAD and PWAD files are supported. Drag and drop your WAD files to this window or open them using the "Open file(s)" button below. You can also open DeHackEd patch files and add them to the game the same way as WAD files.'),
+                e.default.createElement("p", null, "If you don't have any IWAD files, you can use the IWAD of FreeDoom® (",
+                    e.default.createElement("a", {
+                        href: n,
+                        onClick: (0, l.fileFetch)("freedoom1.wad")
+                    }, "Phase 1"),
+                    " ", "or", " ",
+                    e.default.createElement("a", {
+                        href: d,
+                        onClick: (0, l.fileFetch)("freedoom2.wad")
+                    }, "Phase 2"),
+                    ")."),
+                e.default.createElement("input", {
+                    id: "file",
+                    type: "file",
+                    name: "file",
+                    accept: ".wad,.deh",
+                    multiple: !0,
+                    onChange: l.fileUpload
+                }), e.default.createElement("label", {
+                    htmlFor: "file",
+                    className: "button"
+                }, "Open file(s)"))
         }
     }, {
         "react": "n8MK",
@@ -19177,7 +19189,7 @@ parcelRequire = function (e, r, t, n) {
         "./lib/file": "Lsb7",
         "../../public/doom1.wad": "UsMN",
         "./Assets/Wads/freedoom1.wad": "Pd1r",
-        "./Assets/Wads/freedoom2.wad": "T7bT"
+        "guy": "T7bT"
     }],
     "vNBV": [function (require, module, exports) {
         "use strict";
@@ -22326,7 +22338,8 @@ parcelRequire = function (e, r, t, n) {
         }
 
         function r() {
-            return e.default.createElement("div", {})}
+            return e.default.createElement("div", {})
+        }
     }, {
         "react": "n8MK"
     }],
@@ -22416,7 +22429,8 @@ parcelRequire = function (e, r, t, n) {
         }
 
         function l() {
-            return e.default.createElement("div", {})}
+            return e.default.createElement("div", {})
+        }
         require("./Social.scss");
     }, {
         "react": "n8MK",
