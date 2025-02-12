@@ -19117,17 +19117,14 @@ parcelRequire = function (e, r, t, n) {
         "../../store/actions/progress": "U9wE"
     }],
     "UsMN": [function (require, module, exports) {
-        module.exports = "/doom1.97be5d85.wad";
+        module.exports = "./Assets/Wads/freedoom1.wad";
     }, {}],
     "Pd1r": [function (require, module, exports) {
-        module.exports = "./Assets/Wads/freedoom1.wad";
+        module.exports = "./Assets/Wads/freedoom2.wad";
     }, {}],
     "T7bT": [function (require, module, exports) {
         module.exports = {
-            guy: {
-                wad: "./Assets/Wads/freedoom2.wad",
-                wad: "./Assets/Wads/D64D2.wad"
-            }
+            doomzero: ["./Assets/Wads/freedoom2.wad","./Assets/Wads/DOOMZERO.wad","./Assets/DEH/DOOMZERO.deh"]
         }
     }, {}],
     "BVgo": [function (require, module, exports) {
@@ -19146,7 +19143,8 @@ parcelRequire = function (e, r, t, n) {
             }
         }
         var n = require("./Assets/Wads/freedoom1.wad"),
-            d = require("T7bT");
+            d = require("./Assets/Wads/freedoom2.wad"),
+            doomzero = require("T7bT").doomzero;
 
         function i() {
             return e.default.createElement(t.default, {
@@ -19169,7 +19167,12 @@ parcelRequire = function (e, r, t, n) {
                         href: d,
                         onClick: (0, l.fileFetch)("freedoom2.wad")
                     }, "Phase 2"),
-                    ")."),
+                    ").",
+                    e.default.createElement("a", {
+                        href: doomzero,
+                        onClick: (0, l.fileFetch)("./Assets/Wads/DOOMZERO.wad","./Assets/DEH/DOOMZERO.deh")
+                    }, "DoomZero")
+                ),
                 e.default.createElement("input", {
                     id: "file",
                     type: "file",
@@ -19187,9 +19190,9 @@ parcelRequire = function (e, r, t, n) {
         "../components/Window": "HI6u",
         "../components/Button": "ZKJl",
         "./lib/file": "Lsb7",
-        "../../public/doom1.wad": "UsMN",
-        "./Assets/Wads/freedoom1.wad": "Pd1r",
-        "guy": "T7bT"
+        "./Assets/Wads/freedoom1.wad": "UsMN",
+        "./Assets/Wads/freedoom2.wad": "Pd1r",
+        doomzero: "T7bT"
     }],
     "vNBV": [function (require, module, exports) {
         "use strict";

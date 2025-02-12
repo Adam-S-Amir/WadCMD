@@ -1,0 +1,679 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.3 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 19
+Patch format = 6
+
+
+Thing 6 (Revenant)
+Pain sound = 28
+
+Thing 15 (Cacodemon)
+Attack sound = 17
+Pain sound = 87
+Action sound = 98
+
+Thing 16 (Baron of Hell)
+Pain sound = 90
+Action sound = 0
+
+Thing 18 (Hell Knight)
+Pain sound = 90
+Action sound = 0
+
+Thing 19 (Lost Soul)
+Pain sound = 108
+Height = 3145728
+Action sound = 0
+
+Thing 22 (Cyberdemon)
+Pain sound = 0
+Action sound = 0
+
+Thing 23 (Pain Elemental)
+Action sound = 0
+
+Thing 24 (Alpha Soul)
+Hit points = 100
+Attack sound = 17
+Pain chance = 40
+Pain sound = 108
+Action sound = 0
+Bits = 4735558
+Respawn frame = 0
+
+Thing 25 (Dope Fish)
+
+Thing 26 (Big Brain)
+Hit points = 500
+Death sound = 0
+
+Frame 5
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 6
+Duration = 1
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 7
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 8
+Duration = 7
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 9
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 13
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 14
+Sprite subnumber = 3
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 15
+Sprite subnumber = 4
+Duration = 8
+Unknown 1 = 3
+Unknown 2 = 45
+
+Frame 16
+Sprite subnumber = 3
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 17
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 21
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 22
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 23
+Duration = 3
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 24
+Duration = 6
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 25
+Duration = 6
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 26
+Duration = 6
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 27
+Duration = 3
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 28
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 29
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 30
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 31
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 35
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 36
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 37
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 38
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 39
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 40
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 41
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 42
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 43
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 44
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 45
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 46
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 47
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 48
+Duration = 2
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 52
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 53
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 54
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 55
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 56
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 60
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 61
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 62
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 63
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 64
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 65
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 66
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 71
+Unknown 1 = 1
+Unknown 2 = 33
+
+Frame 72
+Duration = 3
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 73
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 77
+Sprite number = 51
+Sprite subnumber = 12
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 78
+Duration = 0
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 79
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 80
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 84
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 85
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 86
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 87
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 88
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 89
+Unknown 1 = 1
+Unknown 2 = 32
+
+Frame 418
+Duration = 3
+
+Frame 615
+Sprite subnumber = 0
+
+Frame 624
+Sprite subnumber = 32780
+
+Frame 625
+Sprite subnumber = 32781
+
+Frame 626
+Sprite subnumber = 32782
+
+Frame 627
+Sprite subnumber = 32783
+
+Frame 628
+Sprite subnumber = 32784
+
+Frame 647
+Sprite subnumber = 0
+
+Frame 685
+Sprite subnumber = 32773
+
+Frame 687
+Sprite subnumber = 32773
+
+Frame 689
+Sprite subnumber = 32773
+
+Frame 714
+Sprite subnumber = 7
+
+Frame 715
+Sprite subnumber = 8
+
+Frame 720
+Sprite subnumber = 32780
+
+Frame 721
+Sprite subnumber = 32779
+
+Frame 722
+Sprite subnumber = 32778
+
+Frame 723
+Sprite subnumber = 32777
+
+Frame 737
+Duration = 4
+
+Frame 739
+Duration = 4
+
+Frame 740
+Sprite subnumber = 4
+Duration = 12
+
+Frame 743
+Sprite subnumber = 32775
+
+Frame 744
+Duration = 3
+Next frame = 750
+
+Frame 745
+Sprite subnumber = 32782
+
+Frame 746
+Sprite subnumber = 32783
+Duration = 3
+Next frame = 752
+
+Frame 747
+Sprite subnumber = 32788
+Duration = 3
+
+Frame 748
+Sprite subnumber = 21
+
+Frame 749
+Duration = 3
+
+Frame 750
+Sprite subnumber = 32782
+Duration = 3
+Next frame = 746
+
+Frame 751
+Sprite subnumber = 32783
+
+Frame 752
+Sprite subnumber = 32784
+Duration = 3
+
+Frame 753
+Sprite subnumber = 32785
+Duration = 3
+
+Frame 754
+Sprite subnumber = 32786
+Duration = 3
+
+Frame 755
+Sprite subnumber = 32787
+Duration = 3
+Next frame = 758
+
+Frame 756
+Sprite subnumber = 32778
+Duration = 3
+Next frame = 759
+
+Frame 758
+Sprite subnumber = 32777
+Duration = 3
+Next frame = 756
+
+Frame 759
+Sprite subnumber = 32779
+Duration = 3
+Next frame = 747
+
+Frame 760
+Sprite subnumber = 32778
+
+Frame 761
+Sprite subnumber = 32777
+
+Frame 780
+Sprite subnumber = 32769
+
+Frame 781
+Sprite subnumber = 32769
+
+Frame 782
+Sprite subnumber = 32769
+
+Frame 783
+Sprite subnumber = 32769
+
+Frame 913
+Sprite number = 95
+
+Pointer 234 (Frame 417)
+Codep Frame = 185
+
+Pointer 235 (Frame 418)
+Codep Frame = 185
+
+Pointer 415 (Frame 738)
+Codep Frame = 506
+
+Pointer 417 (Frame 740)
+Codep Frame = 176
+
+Pointer 422 (Frame 750)
+Codep Frame = 190
+
+Text 405 377
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.IT'S BEEN YEARS SINCE THE DESTRUCTION OF
+THE ICON OF SIN AND THE ABOMINATION KNOWN
+AS THE TITAN, BUT NOW ALL OF A SUDDEN,
+MORE DEMONS ROAM THE EARTH ONCE AGAIN.
+
+YOU REALIZE THERE MUST BE YET ANOTHER
+PORTAL THAT HAS RECENTLY OPENED, SPEWING
+OUT A FRESH, NEW ARMY OF HELL'S ELITE.
+
+THEY ARE RAGE, BRUTAL, WITHOUT MERCY. BUT
+YOU, YOU WILL BE WORSE. RIP AND TEAR UNTIL
+IT IS DONE!
+Text 617 301
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.THE DEEPER YOU GO INTO THE CITY, THE DENSER
+THE DEMON POPULATION BECOMES UNTIL YOU
+FINALLY FIND THE SOURCE: A PIT LEADING TO
+WHAT MAY BE THE ORIGIN OF THE DEMONIC
+SPAWN.
+
+YOU FLICK THE BLOOD AND SWEAT OFF YOUR
+BROW, CLINCH YOUR WEAPON, AND THEN
+PROCEED TO LEAP DOWN INTO THE DEPTHS OF
+THE INFESTATION.
+Text 312 307
+YOU ARE AT THE CORRUPT HEART OF THE CITY,
+SURROUNDED BY THE CORPSES OF YOUR ENEMIES.
+YOU SEE NO WAY TO DESTROY THE CREATURES'
+ENTRYWAY ON THIS SIDE, SO YOU CLENCH YOUR
+TEETH AND PLUNGE THROUGH IT.
+
+THERE MUST BE A WAY TO CLOSE IT ON THE
+OTHER SIDE. WHAT DO YOU CARE IF YOU'VE
+GOT TO GO THROUGH HELL TO GET TO IT?FINALLY. THE ONE BEHIND IT ALL IS THE
+DEMON WITCH HERSELF. YOU ENDURE THE
+ONSLAUGHT OF HER ENDLESSLY SPAWNING
+MINIONS, WAILING ON YOU WITH GLEEFUL
+VENGEANCE.
+
+BUT YOU MANAGE TO ESCAPE THROUGH WHAT
+LOOKS TO BE A PORTAL LEADING TO WHERE
+SHE CAME FROM. PERHAPS IT WILL TAKE YOU
+TO THE THING THAT COULD END HER!
+Text 494 491
+THE HORRENDOUS VISAGE OF THE BIGGEST
+DEMON YOU'VE EVER SEEN CRUMBLES BEFORE
+YOU, AFTER YOU PUMP YOUR ROCKETS INTO
+HIS EXPOSED BRAIN. THE MONSTER SHRIVELS
+UP AND DIES, ITS THRASHING LIMBS
+DEVASTATING UNTOLD MILES OF HELL'S
+SURFACE.
+
+YOU'VE DONE IT. THE INVASION IS OVER.
+EARTH IS SAVED. HELL IS A WRECK. YOU
+WONDER WHERE BAD FOLKS WILL GO WHEN THEY
+DIE, NOW. WIPING THE SWEAT FROM YOUR
+FOREHEAD YOU BEGIN THE LONG TREK BACK
+HOME. REBUILDING EARTH OUGHT TO BE A
+LOT MORE FUN THAN RUINING IT WAS.
+WITH HER SUPPLY OF HUMAN BLOOD CUT OFF,
+AND HER BEATING HEART DESTROYED,
+EVERYTHING AROUND YOU WITHERS AND DIES.
+YOU'VE WON.
+
+BUT ARE THERE YET STILL MORE THAT NEEDS
+TO BE ERADICATED? YOU CONTINUE YOUR HUNT
+AND IT DOESN'T TAKE YOU LONG TO FIND MORE
+TO KILL. BUT IT WAS A TRAP! THEY WERE JUST
+FODDER, LEADING YOU TO YOUR CAPTURE.
+
+IF THE DEMONS CANNOT ELIMINATE YOU, THEN
+PERHAPS THEY CAN IMPRISON YOU. BUT FOR HOW
+LONG? THIS WILL ONLY DELAY YOU. YOU CAN'T
+BE STOPPED...AS LONG AS THEY EXIST!
+Text 164 114
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! BUT SOMETHING'S NOT RIGHT.
+THE WALLS, THEY'RE...THEY'RE TWITCHING!
+Text 92 88
+CONGRATULATIONS, YOU'VE FOUND THE
+SUPER SECRET LEVEL!  YOU'D BETTER
+BLAZE THROUGH THIS ONE!
+YOU'VE FOUND THE SUPER SECRET LEVEL, BUT
+THIS TIME YOU'RE SOMEWHERE YOU'VE ALREADY
+BEEN.
+Text 8 7
+BOSSBACKSARCOPH
+Text 17 14
+level 1: entrywayHigh-Rise Roof
+Text 19 11
+level 2: underhallsToxic Tower
+Text 20 11
+level 3: the gantletMarble Zone
+Text 18 11
+level 4: the focusTriple Town
+Text 26 8
+level 5: the waste tunnelsThe Pits
+Text 20 10
+level 6: the crusherEcho Halls
+Text 20 14
+level 7: dead simpleClaustrophobia
+Text 25 11
+level 8: tricks and trapsModule Base
+Text 16 16
+level 9: the pitAncient Archives
+Text 24 10
+level 10: refueling baseLeap Gates
+Text 29 17
+level 11: 'o' of destruction!Too Close To Home
+Text 21 9
+level 12: the factoryUnderland
+Text 18 5
+level 13: downtownTease
+Text 25 5
+level 14: the inmost densCrust
+Text 25 13
+level 15: industrial zonePeak Facility
+Text 17 14
+level 16: suburbsNatural Supply
+Text 19 16
+level 17: tenementsThe Testing Labs
+Text 23 16
+level 18: the courtyardAtom Transporter
+Text 21 18
+level 19: the citadelQuantum Processing
+Text 17 13
+level 20: gotcha!Familiar Face
+Text 17 9
+level 21: nirvanaStarbourn
+Text 23 10
+level 22: the catacombsThe Cracks
+Text 24 11
+level 23: barrels o' funAtmos Caves
+Text 19 11
+level 24: the chasmBooster Hub
+Text 20 18
+level 25: bloodfallsAbandoned Compound
+Text 29 13
+level 26: the abandoned minesFortification
+Text 23 12
+level 27: monster condoThe Junction
+Text 26 10
+level 28: the spirit worldSuspension
+Text 24 11
+level 29: the living endThe Rematch
+Text 21 15
+level 30: icon of sinThe Sarcophagus
+Text 21 4
+level 31: wolfensteinMeat
+Text 16 9
+level 32: grosseDark Roof
+Text 4 4
+PLSGPLAG
+Text 4 4
+PLSFPLAF
+Text 4 4
+SSWVSSKL
+Text 4 4
+KEENDOPE
+Text 4 4
+BBRNWTCH
+Text 4 4
+BOSFCUBE
+Text 4 4
+MEGAMEGS
+Text 4 4
+PLASPLAM
+Text 4 4
+POL1GORE
+Text 4 4
+CANDTSTR
+Text 4 4
+TBLUHART
